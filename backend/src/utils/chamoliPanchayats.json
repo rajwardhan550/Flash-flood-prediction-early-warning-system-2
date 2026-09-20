@@ -1,0 +1,7794 @@
+[
+  {
+    "panchayatId": "GP-245769705",
+    "name": "Karnaprayag",
+    "latitude": 30.259647,
+    "longitude": 79.217069,
+    "place_type": "town",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-245769841",
+    "name": "Nandaprayāg",
+    "latitude": 30.33188,
+    "longitude": 79.31992,
+    "place_type": "town",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-245770322",
+    "name": "Ringi",
+    "latitude": 30.478038,
+    "longitude": 79.618965,
+    "place_type": "village",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-342101369",
+    "name": "Khati",
+    "latitude": 30.112094,
+    "longitude": 79.940062,
+    "place_type": "village",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-342101403",
+    "name": "Liti",
+    "latitude": 30.00916,
+    "longitude": 80.02991,
+    "place_type": "village",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-342101517",
+    "name": "Umula",
+    "latitude": 30.097137,
+    "longitude": 79.92157,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-342101526",
+    "name": "Bhagdanu",
+    "latitude": 30.09018,
+    "longitude": 79.91455,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-342104576",
+    "name": "Badrinath",
+    "latitude": 30.74233,
+    "longitude": 79.493026,
+    "place_type": "town",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-342104705",
+    "name": "Gwāldam",
+    "latitude": 30.003898,
+    "longitude": 79.567788,
+    "place_type": "village",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-342104713",
+    "name": "Talour",
+    "latitude": 30.052551,
+    "longitude": 79.590953,
+    "place_type": "village",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-342104721",
+    "name": "Ren",
+    "latitude": 30.042211,
+    "longitude": 79.623455,
+    "place_type": "village",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-342104733",
+    "name": "Kunar",
+    "latitude": 30.085672,
+    "longitude": 79.604282,
+    "place_type": "village",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-342104742",
+    "name": "Naushiri",
+    "latitude": 30.08194,
+    "longitude": 79.5987,
+    "place_type": "village",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-342104752",
+    "name": "Wulangara",
+    "latitude": 30.07782,
+    "longitude": 79.59046,
+    "place_type": "village",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-342104772",
+    "name": "Nandkeshwari",
+    "latitude": 30.04074,
+    "longitude": 79.56711,
+    "place_type": "village",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-342104782",
+    "name": "Chepru",
+    "latitude": 30.04898,
+    "longitude": 79.5369,
+    "place_type": "village",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-342104871",
+    "name": "Nijmula",
+    "latitude": 30.363646,
+    "longitude": 79.466615,
+    "place_type": "village",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-342104880",
+    "name": "Saiji",
+    "latitude": 30.36484,
+    "longitude": 79.46137,
+    "place_type": "village",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-342104890",
+    "name": "Garigaon",
+    "latitude": 30.383534,
+    "longitude": 79.419916,
+    "place_type": "village",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-342104895",
+    "name": "Pīpalkoti",
+    "latitude": 30.4335,
+    "longitude": 79.42841,
+    "place_type": "village",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-342104904",
+    "name": "Suraithota",
+    "latitude": 30.53101,
+    "longitude": 79.74152,
+    "place_type": "village",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-342104914",
+    "name": "Lata",
+    "latitude": 30.49667,
+    "longitude": 79.70719,
+    "place_type": "village",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-342104924",
+    "name": "Garurganga",
+    "latitude": 30.46509,
+    "longitude": 79.44489,
+    "place_type": "village",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-342105210",
+    "name": "Bagargād",
+    "latitude": 30.11916,
+    "longitude": 79.60885,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-342105222",
+    "name": "Lwani",
+    "latitude": 30.10529,
+    "longitude": 79.60007,
+    "place_type": "village",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-342105233",
+    "name": "Khera",
+    "latitude": 30.10733,
+    "longitude": 79.535899,
+    "place_type": "village",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-342105245",
+    "name": "Khulsari",
+    "latitude": 30.090293,
+    "longitude": 79.457431,
+    "place_type": "village",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-342105258",
+    "name": "Tharāli",
+    "latitude": 30.068207,
+    "longitude": 79.507435,
+    "place_type": "village",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-342105269",
+    "name": "Golti",
+    "latitude": 30.05722,
+    "longitude": 79.49982,
+    "place_type": "village",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-342105645",
+    "name": "Pandukeshar",
+    "latitude": 30.634407,
+    "longitude": 79.547082,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-342105657",
+    "name": "Nayachutti",
+    "latitude": 30.648538,
+    "longitude": 79.533243,
+    "place_type": "village",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-342105671",
+    "name": "Hanumanchatti",
+    "latitude": 30.695522,
+    "longitude": 79.514153,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-342105686",
+    "name": "Helong",
+    "latitude": 30.524007,
+    "longitude": 79.501495,
+    "place_type": "village",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-342105699",
+    "name": "Joshīmath",
+    "latitude": 30.555575,
+    "longitude": 79.561261,
+    "place_type": "town",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-342105710",
+    "name": "Auli",
+    "latitude": 30.537787,
+    "longitude": 79.565724,
+    "place_type": "village",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-342106406",
+    "name": "Salik",
+    "latitude": 30.02426,
+    "longitude": 79.95163,
+    "place_type": "village",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-342106416",
+    "name": "Song",
+    "latitude": 30.03525,
+    "longitude": 79.95575,
+    "place_type": "village",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-342106426",
+    "name": "Lohārkhet",
+    "latitude": 30.03675,
+    "longitude": 79.937815,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-342106498",
+    "name": "Jelam",
+    "latitude": 30.644153,
+    "longitude": 79.825917,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-342106506",
+    "name": "Jumma",
+    "latitude": 30.60791,
+    "longitude": 79.80606,
+    "place_type": "village",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-342106517",
+    "name": "Malari",
+    "latitude": 30.684551,
+    "longitude": 79.889369,
+    "place_type": "village",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-342106526",
+    "name": "Pharkia",
+    "latitude": 30.731829,
+    "longitude": 79.826283,
+    "place_type": "village",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-342106535",
+    "name": "BAMPA",
+    "latitude": 30.743666,
+    "longitude": 79.829715,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-342106545",
+    "name": "Gamshali",
+    "latitude": 30.755999,
+    "longitude": 79.826187,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-342107407",
+    "name": "Gopeshwar",
+    "latitude": 30.40878,
+    "longitude": 79.31855,
+    "place_type": "town",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-342107674",
+    "name": "Chopta Chatti",
+    "latitude": 30.484899,
+    "longitude": 79.200017,
+    "place_type": "village",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-342107716",
+    "name": "Bagoli",
+    "latitude": 30.19455,
+    "longitude": 79.29795,
+    "place_type": "village",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-342107725",
+    "name": "Langasu",
+    "latitude": 30.290057,
+    "longitude": 79.276393,
+    "place_type": "village",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-342107735",
+    "name": "Simli",
+    "latitude": 30.23438,
+    "longitude": 79.25537,
+    "place_type": "village",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-342107746",
+    "name": "Jakh",
+    "latitude": 30.237218,
+    "longitude": 79.222786,
+    "place_type": "village",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-342107766",
+    "name": "Semuwa",
+    "latitude": 30.273526,
+    "longitude": 79.213758,
+    "place_type": "village",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-342107846",
+    "name": "Gairsain",
+    "latitude": 30.05462,
+    "longitude": 79.289989,
+    "place_type": "town",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-342108124",
+    "name": "Pankal",
+    "latitude": 30.3656,
+    "longitude": 79.202887,
+    "place_type": "village",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-342108135",
+    "name": "Jorasi",
+    "latitude": 30.386522,
+    "longitude": 79.204755,
+    "place_type": "village",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-342108143",
+    "name": "Salna",
+    "latitude": 30.392831,
+    "longitude": 79.201329,
+    "place_type": "village",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-342108186",
+    "name": "Khal",
+    "latitude": 30.29068,
+    "longitude": 79.20044,
+    "place_type": "village",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-342108821",
+    "name": "Narayn Bagar",
+    "latitude": 30.14511,
+    "longitude": 79.37348,
+    "place_type": "town",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-342108828",
+    "name": "Gadhera",
+    "latitude": 30.115303,
+    "longitude": 79.408596,
+    "place_type": "village",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-342109077",
+    "name": "Mana",
+    "latitude": 30.770476,
+    "longitude": 79.495943,
+    "place_type": "village",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-342109100",
+    "name": "Bagrigal",
+    "latitude": 30.125524,
+    "longitude": 79.613155,
+    "place_type": "village",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-342109112",
+    "name": "Kuling",
+    "latitude": 30.159229,
+    "longitude": 79.618567,
+    "place_type": "village",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-342109138",
+    "name": "Ghāt",
+    "latitude": 30.258483,
+    "longitude": 79.448119,
+    "place_type": "town",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-342109151",
+    "name": "Sera",
+    "latitude": 30.271704,
+    "longitude": 79.413273,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-342109161",
+    "name": "Kurur",
+    "latitude": 30.27832,
+    "longitude": 79.44763,
+    "place_type": "village",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-342109167",
+    "name": "Sung",
+    "latitude": 30.28656,
+    "longitude": 79.47098,
+    "place_type": "village",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-342109175",
+    "name": "Lawani",
+    "latitude": 30.29755,
+    "longitude": 79.47235,
+    "place_type": "village",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-342109786",
+    "name": "Birahi",
+    "latitude": 30.40741,
+    "longitude": 79.38584,
+    "place_type": "village",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-342109796",
+    "name": "Bimtala",
+    "latitude": 30.40741,
+    "longitude": 79.35974,
+    "place_type": "village",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-342109814",
+    "name": "Devkhal",
+    "latitude": 30.333685,
+    "longitude": 79.292346,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-342109826",
+    "name": "Bheragna",
+    "latitude": 30.43625,
+    "longitude": 79.30481,
+    "place_type": "village",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-342109848",
+    "name": "Mathyana",
+    "latitude": 30.36072,
+    "longitude": 79.31717,
+    "place_type": "village",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-342109858",
+    "name": "Gair",
+    "latitude": 30.415808,
+    "longitude": 79.308369,
+    "place_type": "village",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-342109879",
+    "name": "Sitola",
+    "latitude": 30.3772,
+    "longitude": 79.27872,
+    "place_type": "village",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-342109891",
+    "name": "Trishula",
+    "latitude": 30.350424,
+    "longitude": 79.252762,
+    "place_type": "village",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-342109900",
+    "name": "Hapla",
+    "latitude": 30.41565,
+    "longitude": 79.20594,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-342109919",
+    "name": "Tunganath",
+    "latitude": 30.489284,
+    "longitude": 79.217316,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-440867595",
+    "name": "Govindghat",
+    "latitude": 30.619226,
+    "longitude": 79.561968,
+    "place_type": "village",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-616268996",
+    "name": "Ghangaria",
+    "latitude": 30.701454,
+    "longitude": 79.5938,
+    "place_type": "village",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-1347494803",
+    "name": "Mandal",
+    "latitude": 30.460524,
+    "longitude": 79.27454,
+    "place_type": "village;hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-2077775906",
+    "name": "Wan",
+    "latitude": 30.205036,
+    "longitude": 79.617534,
+    "place_type": "village",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-2207946888",
+    "name": "Tharali",
+    "latitude": 30.074547,
+    "longitude": 79.500026,
+    "place_type": "village",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-2355825400",
+    "name": "Madhmaheshwar",
+    "latitude": 30.63474,
+    "longitude": 79.221662,
+    "place_type": "village",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-2376466260",
+    "name": "Bangīna",
+    "latitude": 30.535161,
+    "longitude": 79.461309,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-2376466269",
+    "name": "Kanol",
+    "latitude": 30.253912,
+    "longitude": 79.595347,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-2376466278",
+    "name": "Lālsānga",
+    "latitude": 30.402708,
+    "longitude": 79.333028,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-2376466284",
+    "name": "Rini",
+    "latitude": 30.484072,
+    "longitude": 79.651004,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-2376466294",
+    "name": "Vishnuprayāg",
+    "latitude": 30.562644,
+    "longitude": 79.579148,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-2376466636",
+    "name": "Ādbadri",
+    "latitude": 30.14652,
+    "longitude": 79.247216,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-2376477122",
+    "name": "Gwāra",
+    "latitude": 30.103564,
+    "longitude": 79.981929,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-2376477123",
+    "name": "Harmal",
+    "latitude": 30.058111,
+    "longitude": 79.791045,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-2376477124",
+    "name": "Kilbara",
+    "latitude": 30.096557,
+    "longitude": 79.840858,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-2376477126",
+    "name": "Namik",
+    "latitude": 30.098842,
+    "longitude": 80.089834,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-2376535890",
+    "name": "Lohba",
+    "latitude": 30.032457,
+    "longitude": 79.290892,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-2376535899",
+    "name": "Suna",
+    "latitude": 30.095401,
+    "longitude": 79.455613,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-2378000365",
+    "name": "Ghāstoli",
+    "latitude": 30.859209,
+    "longitude": 79.469991,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-2379635019",
+    "name": "Aser",
+    "latitude": 30.141962,
+    "longitude": 79.401314,
+    "place_type": "village",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-2379635463",
+    "name": "Kothi",
+    "latitude": 30.034585,
+    "longitude": 79.564073,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-2379636807",
+    "name": "Juner",
+    "latitude": 30.151361,
+    "longitude": 79.392744,
+    "place_type": "village",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-2383637755",
+    "name": "Siwai Malli",
+    "latitude": 30.285637,
+    "longitude": 79.236837,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-2383637757",
+    "name": "Sarna",
+    "latitude": 30.294785,
+    "longitude": 79.24,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-2383637762",
+    "name": "Kujasu",
+    "latitude": 30.308055,
+    "longitude": 79.209037,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-2383782286",
+    "name": "Sunala",
+    "latitude": 30.316748,
+    "longitude": 79.307911,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-2386907495",
+    "name": "Balgaon",
+    "latitude": 30.519021,
+    "longitude": 79.731601,
+    "place_type": "village",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-2386907509",
+    "name": "Tolma",
+    "latitude": 30.523913,
+    "longitude": 79.752224,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-2386916025",
+    "name": "Garsera",
+    "latitude": 30.136947,
+    "longitude": 79.307395,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-2386934076",
+    "name": "Pokhani",
+    "latitude": 30.470845,
+    "longitude": 79.427198,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-2386934116",
+    "name": "Kanth",
+    "latitude": 30.51038,
+    "longitude": 79.374207,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-2386934192",
+    "name": "Ranta",
+    "latitude": 30.540816,
+    "longitude": 79.45163,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-2386973069",
+    "name": "Bamyala",
+    "latitude": 30.419396,
+    "longitude": 79.273719,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-2392925092",
+    "name": "Khankar",
+    "latitude": 30.181513,
+    "longitude": 79.263959,
+    "place_type": "village",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-2404066712",
+    "name": "Lambagad",
+    "latitude": 30.692639,
+    "longitude": 79.513239,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-2413034009",
+    "name": "Manil",
+    "latitude": 30.124293,
+    "longitude": 79.495712,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-2432442229",
+    "name": "Dhura",
+    "latitude": 30.106337,
+    "longitude": 79.641173,
+    "place_type": "village",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-2442679057",
+    "name": "Semdagarh",
+    "latitude": 30.141626,
+    "longitude": 79.817643,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-4120608776",
+    "name": "Tauli Daduli",
+    "latitude": 30.24626,
+    "longitude": 79.240041,
+    "place_type": "village",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-4120613471",
+    "name": "Pipalsera",
+    "latitude": 30.249496,
+    "longitude": 79.243641,
+    "place_type": "village",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-4120648783",
+    "name": "Bangaon Talla",
+    "latitude": 30.221459,
+    "longitude": 79.264083,
+    "place_type": "village",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-4120648784",
+    "name": "Bangaon Malla",
+    "latitude": 30.221018,
+    "longitude": 79.272754,
+    "place_type": "village",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-4272608518",
+    "name": "Dhur",
+    "latitude": 30.093826,
+    "longitude": 79.918848,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-4283568703",
+    "name": "Jatoli",
+    "latitude": 30.143727,
+    "longitude": 79.923062,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-4406009886",
+    "name": "Tolpani",
+    "latitude": 30.153613,
+    "longitude": 79.645006,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-4770772470",
+    "name": "Adi Badri",
+    "latitude": 30.15594,
+    "longitude": 79.226961,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-4992439560",
+    "name": "Bhyudar",
+    "latitude": 30.674709,
+    "longitude": 79.591348,
+    "place_type": "village",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-5414911680",
+    "name": "下尔加松那",
+    "latitude": 30.989476,
+    "longitude": 79.976428,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-5486218981",
+    "name": "Gogina",
+    "latitude": 30.075778,
+    "longitude": 80.07669,
+    "place_type": "village",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-5519535106",
+    "name": "Dhak",
+    "latitude": 30.498861,
+    "longitude": 79.611343,
+    "place_type": "village",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-6417415162",
+    "name": "Ramni",
+    "latitude": 30.316581,
+    "longitude": 79.507649,
+    "place_type": "village",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-6417415237",
+    "name": "Char pagna",
+    "latitude": 30.31721,
+    "longitude": 79.429028,
+    "place_type": "village",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-6417415705",
+    "name": "Pana",
+    "latitude": 30.391312,
+    "longitude": 79.555837,
+    "place_type": "village",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-6520171764",
+    "name": "Baura Gad",
+    "latitude": 30.132356,
+    "longitude": 79.812195,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-6520172138",
+    "name": "Kujani",
+    "latitude": 30.511071,
+    "longitude": 79.422388,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-6520174609",
+    "name": "Urgam",
+    "latitude": 30.540088,
+    "longitude": 79.456632,
+    "place_type": "village",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-6520174610",
+    "name": "Jhuni",
+    "latitude": 30.111309,
+    "longitude": 79.989691,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-6520184159",
+    "name": "Salma",
+    "latitude": 30.529838,
+    "longitude": 79.49179,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-6520196480",
+    "name": "Badiyakot",
+    "latitude": 30.111725,
+    "longitude": 79.844156,
+    "place_type": "village",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-6520204849",
+    "name": "Kimana",
+    "latitude": 30.497887,
+    "longitude": 79.452369,
+    "place_type": "village",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-6520205842",
+    "name": "Himni",
+    "latitude": 30.145352,
+    "longitude": 79.726028,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-6520207410",
+    "name": "Jaigini",
+    "latitude": 30.106201,
+    "longitude": 79.929668,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-6520208828",
+    "name": "Jakola",
+    "latitude": 30.506207,
+    "longitude": 79.463621,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-6520208829",
+    "name": "Mikila",
+    "latitude": 30.095448,
+    "longitude": 79.99826,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-6520212816",
+    "name": "Ranga",
+    "latitude": 30.199084,
+    "longitude": 79.63212,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-6520212957",
+    "name": "Garikut",
+    "latitude": 30.114061,
+    "longitude": 79.834328,
+    "place_type": "village",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-6520213930",
+    "name": "Siroli",
+    "latitude": 30.467236,
+    "longitude": 79.279914,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-6520213932",
+    "name": "Kimmu",
+    "latitude": 30.09628,
+    "longitude": 80.073761,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-6520216752",
+    "name": "Dumak",
+    "latitude": 30.50724,
+    "longitude": 79.383147,
+    "place_type": "village",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-6520218278",
+    "name": "Padarghow",
+    "latitude": 30.307377,
+    "longitude": 79.527016,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-6520218279",
+    "name": "Balan",
+    "latitude": 30.162831,
+    "longitude": 79.694784,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-6520218642",
+    "name": "Kalgoth",
+    "latitude": 30.516532,
+    "longitude": 79.415042,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-6520221075",
+    "name": "Jokuda",
+    "latitude": 30.516706,
+    "longitude": 79.403412,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-6520222033",
+    "name": "Ghuni",
+    "latitude": 30.304608,
+    "longitude": 79.518188,
+    "place_type": "village",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-6520222034",
+    "name": "Patak",
+    "latitude": 30.10313,
+    "longitude": 79.85615,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-6520222522",
+    "name": "Uchwan",
+    "latitude": 30.503167,
+    "longitude": 79.431793,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-6520222649",
+    "name": "Jhinji",
+    "latitude": 30.358333,
+    "longitude": 79.575833,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-6520225502",
+    "name": "Palla",
+    "latitude": 30.512295,
+    "longitude": 79.472082,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-6520225503",
+    "name": "Thana",
+    "latitude": 30.531327,
+    "longitude": 79.47403,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-6520226354",
+    "name": "Lutaung",
+    "latitude": 30.23476,
+    "longitude": 79.611101,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-6520227221",
+    "name": "Boora",
+    "latitude": 30.294111,
+    "longitude": 79.531985,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-6520227222",
+    "name": "Surag",
+    "latitude": 30.104238,
+    "longitude": 79.879701,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-6520227372",
+    "name": "Irani",
+    "latitude": 30.374719,
+    "longitude": 79.575747,
+    "place_type": "village",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-6520227794",
+    "name": "Sitel",
+    "latitude": 30.276737,
+    "longitude": 79.552701,
+    "place_type": "village",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-6520228150",
+    "name": "Khal Juni",
+    "latitude": 30.09756,
+    "longitude": 79.972771,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-6520228283",
+    "name": "Banali",
+    "latitude": 30.379845,
+    "longitude": 79.562601,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-6520230685",
+    "name": "Bhararkani",
+    "latitude": 30.127864,
+    "longitude": 79.798717,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-6520232703",
+    "name": "Letauli",
+    "latitude": 30.097525,
+    "longitude": 79.903325,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-6520232705",
+    "name": "Khalpata",
+    "latitude": 30.091692,
+    "longitude": 79.99063,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-6586182562",
+    "name": "Lambagarh",
+    "latitude": 30.654108,
+    "longitude": 79.516578,
+    "place_type": "village",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-6588203950",
+    "name": "Chhinka",
+    "latitude": 30.415385,
+    "longitude": 79.366376,
+    "place_type": "village",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-6588203951",
+    "name": "Chamoli",
+    "latitude": 30.414973,
+    "longitude": 79.368452,
+    "place_type": "village",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-6588487886",
+    "name": "Sartoli",
+    "latitude": 30.340914,
+    "longitude": 79.349955,
+    "place_type": "village",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-6588855793",
+    "name": "Devali Bagar",
+    "latitude": 30.30137,
+    "longitude": 79.297393,
+    "place_type": "village",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7545980860",
+    "name": "Niti",
+    "latitude": 30.777664,
+    "longitude": 79.841121,
+    "place_type": "village",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7690171419",
+    "name": "Didina",
+    "latitude": 30.165307,
+    "longitude": 79.633339,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7690199371",
+    "name": "Raighadi",
+    "latitude": 30.477943,
+    "longitude": 79.610206,
+    "place_type": "village",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7690199372",
+    "name": "Karchi",
+    "latitude": 30.483037,
+    "longitude": 79.607738,
+    "place_type": "village",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7690212532",
+    "name": "Ala",
+    "latitude": 30.288402,
+    "longitude": 79.547904,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7731901213",
+    "name": "Patalkhor Kharak",
+    "latitude": 30.092192,
+    "longitude": 79.957187,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7731901217",
+    "name": "Duni",
+    "latitude": 30.111165,
+    "longitude": 79.830952,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7731901218",
+    "name": "Phapharkhot",
+    "latitude": 30.149451,
+    "longitude": 79.810148,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7731937267",
+    "name": "Karmitoli",
+    "latitude": 30.047578,
+    "longitude": 79.887192,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7731937268",
+    "name": "Mill",
+    "latitude": 30.052705,
+    "longitude": 79.893608,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7731937269",
+    "name": "Karmi",
+    "latitude": 30.047987,
+    "longitude": 79.896296,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7731937270",
+    "name": "Lwara",
+    "latitude": 30.042192,
+    "longitude": 79.899176,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7731937271",
+    "name": "Guthan",
+    "latitude": 30.029142,
+    "longitude": 79.89923,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7731937272",
+    "name": "Kotidhar",
+    "latitude": 30.032402,
+    "longitude": 79.885047,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7731937273",
+    "name": "Sapuli",
+    "latitude": 30.027098,
+    "longitude": 79.88657,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7731937274",
+    "name": "Miri",
+    "latitude": 30.028715,
+    "longitude": 79.877794,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7731937275",
+    "name": "Letal",
+    "latitude": 30.033721,
+    "longitude": 79.871485,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7731937276",
+    "name": "Dhubar",
+    "latitude": 30.023067,
+    "longitude": 79.868846,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7731937277",
+    "name": "Dana",
+    "latitude": 30.025696,
+    "longitude": 79.858664,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7731937278",
+    "name": "Saran",
+    "latitude": 30.019082,
+    "longitude": 79.878566,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7731956432",
+    "name": "Toli",
+    "latitude": 30.010061,
+    "longitude": 79.845661,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7731956433",
+    "name": "Chirang",
+    "latitude": 30.0127,
+    "longitude": 79.854984,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7731956434",
+    "name": "Khalti",
+    "latitude": 30.001179,
+    "longitude": 79.862226,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7731962748",
+    "name": "Basi",
+    "latitude": 30.008263,
+    "longitude": 79.939302,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7731962749",
+    "name": "Kaphlani",
+    "latitude": 30.016007,
+    "longitude": 79.949806,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7731962750",
+    "name": "Chakrahaniya",
+    "latitude": 30.020141,
+    "longitude": 79.973334,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7731962752",
+    "name": "Shumgarh",
+    "latitude": 30.027767,
+    "longitude": 79.964944,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7731962753",
+    "name": "Timil",
+    "latitude": 30.03191,
+    "longitude": 79.968442,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7731962754",
+    "name": "Nalipani",
+    "latitude": 30.043975,
+    "longitude": 79.974353,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7731962755",
+    "name": "Ghansi",
+    "latitude": 30.049779,
+    "longitude": 79.978774,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7731962756",
+    "name": "Samjar",
+    "latitude": 30.050429,
+    "longitude": 79.986284,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7731962757",
+    "name": "Barmati",
+    "latitude": 30.060106,
+    "longitude": 79.993794,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7731962758",
+    "name": "Nin Nagela",
+    "latitude": 30.079121,
+    "longitude": 79.9874,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7731976976",
+    "name": "Kunwarpata",
+    "latitude": 30.038505,
+    "longitude": 79.771428,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7731976977",
+    "name": "Dhargair",
+    "latitude": 30.035142,
+    "longitude": 79.769475,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7731976978",
+    "name": "Manmatti",
+    "latitude": 30.041031,
+    "longitude": 79.754112,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7731976979",
+    "name": "Chothing",
+    "latitude": 30.049408,
+    "longitude": 79.769111,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7731976980",
+    "name": "Chorkathera",
+    "latitude": 30.048201,
+    "longitude": 79.757051,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7731976981",
+    "name": "Chanyali",
+    "latitude": 30.05888,
+    "longitude": 79.762738,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7731976982",
+    "name": "Nagar",
+    "latitude": 30.063514,
+    "longitude": 79.758586,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7731976983",
+    "name": "Namla",
+    "latitude": 30.0755,
+    "longitude": 79.768102,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7731976984",
+    "name": "Udaipur",
+    "latitude": 30.087374,
+    "longitude": 79.76174,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7732001698",
+    "name": "Dhauldunga",
+    "latitude": 30.117494,
+    "longitude": 79.878556,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7732006579",
+    "name": "Uriya",
+    "latitude": 30.084784,
+    "longitude": 79.896355,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7732006580",
+    "name": "Ungiya",
+    "latitude": 30.083689,
+    "longitude": 79.885283,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7732006581",
+    "name": "Gakuri",
+    "latitude": 30.08043,
+    "longitude": 79.877483,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7732006582",
+    "name": "Tikh",
+    "latitude": 30.085211,
+    "longitude": 79.864683,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7732006583",
+    "name": "Talkori",
+    "latitude": 30.090382,
+    "longitude": 79.849035,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7732006584",
+    "name": "Kalo",
+    "latitude": 30.107433,
+    "longitude": 79.847324,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7732007685",
+    "name": "Bilap",
+    "latitude": 30.08588,
+    "longitude": 79.815352,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7732007687",
+    "name": "Kunwari",
+    "latitude": 30.082677,
+    "longitude": 79.799838,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7732007688",
+    "name": "Jhaliya",
+    "latitude": 30.072028,
+    "longitude": 79.797188,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7732007689",
+    "name": "Rampur",
+    "latitude": 30.053475,
+    "longitude": 79.789045,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7732007690",
+    "name": "Chachal",
+    "latitude": 30.047643,
+    "longitude": 79.790246,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7732007692",
+    "name": "Torti",
+    "latitude": 30.038189,
+    "longitude": 79.785805,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7732007693",
+    "name": "Dyarkhet",
+    "latitude": 30.046269,
+    "longitude": 79.775151,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7732016669",
+    "name": "Phulchaunra",
+    "latitude": 30.003214,
+    "longitude": 79.866711,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7732016670",
+    "name": "Gason Gad",
+    "latitude": 30.006206,
+    "longitude": 79.888662,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7732016671",
+    "name": "Phulbairl",
+    "latitude": 30.012068,
+    "longitude": 79.885304,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7732016672",
+    "name": "Thangdhar",
+    "latitude": 30.011074,
+    "longitude": 79.904562,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7732016673",
+    "name": "Dhulam",
+    "latitude": 30.000594,
+    "longitude": 79.924797,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7732016674",
+    "name": "Kuneri",
+    "latitude": 30.002935,
+    "longitude": 79.931068,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7732016675",
+    "name": "Urg",
+    "latitude": 30.001109,
+    "longitude": 79.937393,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7732043388",
+    "name": "Bajan",
+    "latitude": 30.040195,
+    "longitude": 79.862173,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7732043389",
+    "name": "Dokti",
+    "latitude": 30.041142,
+    "longitude": 79.856561,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7732043390",
+    "name": "Kumtoli",
+    "latitude": 30.049371,
+    "longitude": 79.854469,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7732043391",
+    "name": "Lumak",
+    "latitude": 30.059437,
+    "longitude": 79.862741,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7732287590",
+    "name": "Ratgaon",
+    "latitude": 30.141527,
+    "longitude": 79.546037,
+    "place_type": "village",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7732300970",
+    "name": "Bursol",
+    "latitude": 30.138014,
+    "longitude": 79.525599,
+    "place_type": "village",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7732300971",
+    "name": "Gerur",
+    "latitude": 30.13913,
+    "longitude": 79.518411,
+    "place_type": "village",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7732300972",
+    "name": "Dungri",
+    "latitude": 30.127428,
+    "longitude": 79.505367,
+    "place_type": "village",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7732300973",
+    "name": "Chame Kharak",
+    "latitude": 30.151436,
+    "longitude": 79.503266,
+    "place_type": "village",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7732300976",
+    "name": "Sonsiya Kharak",
+    "latitude": 30.163359,
+    "longitude": 79.529419,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7732300977",
+    "name": "Prant Chak",
+    "latitude": 30.157428,
+    "longitude": 79.536271,
+    "place_type": "village",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7732300978",
+    "name": "Partha",
+    "latitude": 30.095161,
+    "longitude": 79.5466,
+    "place_type": "village",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7732300979",
+    "name": "Orthe",
+    "latitude": 30.083256,
+    "longitude": 79.548645,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7732300980",
+    "name": "Dunali",
+    "latitude": 30.085782,
+    "longitude": 79.561243,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7732300982",
+    "name": "Pakan Tok",
+    "latitude": 30.073518,
+    "longitude": 79.571291,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7732313293",
+    "name": "Maunigad",
+    "latitude": 30.036377,
+    "longitude": 79.727058,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7732313294",
+    "name": "Melkhet",
+    "latitude": 30.024239,
+    "longitude": 79.720923,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7732313295",
+    "name": "Kheta",
+    "latitude": 30.030006,
+    "longitude": 79.740208,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7732313296",
+    "name": "Manlalikhet",
+    "latitude": 30.039595,
+    "longitude": 79.74747,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7732354086",
+    "name": "Kuwar Sagwar",
+    "latitude": 30.071639,
+    "longitude": 79.524521,
+    "place_type": "village",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7732354087",
+    "name": "Junidhar",
+    "latitude": 30.067274,
+    "longitude": 79.531009,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7732354088",
+    "name": "Khuni",
+    "latitude": 30.075587,
+    "longitude": 79.538393,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7732354089",
+    "name": "Gothinda",
+    "latitude": 30.06811,
+    "longitude": 79.555762,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7732354091",
+    "name": "Tundri",
+    "latitude": 30.053275,
+    "longitude": 79.554188,
+    "place_type": "village",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7732354092",
+    "name": "Srinthal",
+    "latitude": 30.057083,
+    "longitude": 79.563728,
+    "place_type": "village",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7732354100",
+    "name": "Airadev",
+    "latitude": 30.009371,
+    "longitude": 79.62863,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7732354101",
+    "name": "Mainpata",
+    "latitude": 30.015819,
+    "longitude": 79.630258,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7732354102",
+    "name": "Thai",
+    "latitude": 30.018988,
+    "longitude": 79.646066,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7732354103",
+    "name": "Aranp",
+    "latitude": 30.01302,
+    "longitude": 79.649601,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7732354105",
+    "name": "Unibargar",
+    "latitude": 30.021589,
+    "longitude": 79.662166,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7732354106",
+    "name": "Kaphalkhet",
+    "latitude": 30.018333,
+    "longitude": 79.67039,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7732354107",
+    "name": "Chauki",
+    "latitude": 30.021973,
+    "longitude": 79.684837,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7732354108",
+    "name": "Raul",
+    "latitude": 30.015326,
+    "longitude": 79.685927,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7732354109",
+    "name": "Maopata",
+    "latitude": 30.019241,
+    "longitude": 79.689033,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7732354110",
+    "name": "Sujalkot",
+    "latitude": 30.0233,
+    "longitude": 79.696137,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7732354111",
+    "name": "Naldhura",
+    "latitude": 30.025797,
+    "longitude": 79.700405,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7732364129",
+    "name": "Gurmatoli",
+    "latitude": 30.097545,
+    "longitude": 79.673531,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7732364130",
+    "name": "Nalpani",
+    "latitude": 30.100297,
+    "longitude": 79.683542,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7732364131",
+    "name": "Ukaldhar",
+    "latitude": 30.097487,
+    "longitude": 79.697619,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7732364137",
+    "name": "Linkhet",
+    "latitude": 30.057693,
+    "longitude": 79.680809,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7732364138",
+    "name": "Doba",
+    "latitude": 30.053186,
+    "longitude": 79.670761,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7732364139",
+    "name": "Tuna Kharak",
+    "latitude": 30.05804,
+    "longitude": 79.656792,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7732364142",
+    "name": "Netha",
+    "latitude": 30.0802,
+    "longitude": 79.631676,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7732364144",
+    "name": "Timli",
+    "latitude": 30.096448,
+    "longitude": 79.640773,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7732364151",
+    "name": "Kolpuri",
+    "latitude": 30.147515,
+    "longitude": 79.522053,
+    "place_type": "village",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7732897633",
+    "name": "Garsu",
+    "latitude": 30.04661,
+    "longitude": 79.619712,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7732897634",
+    "name": "Milotha",
+    "latitude": 30.052059,
+    "longitude": 79.612532,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7732897635",
+    "name": "Pokhiri",
+    "latitude": 30.06731,
+    "longitude": 79.61904,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7732897636",
+    "name": "Ulangara",
+    "latitude": 30.077873,
+    "longitude": 79.601615,
+    "place_type": "village",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7732897637",
+    "name": "Sawar",
+    "latitude": 30.073259,
+    "longitude": 79.61088,
+    "place_type": "village",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7732897638",
+    "name": "Bamanbera",
+    "latitude": 30.087094,
+    "longitude": 79.585874,
+    "place_type": "village",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7732897639",
+    "name": "Kandai",
+    "latitude": 30.090148,
+    "longitude": 79.590619,
+    "place_type": "village",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7732897640",
+    "name": "Tajpur",
+    "latitude": 30.098444,
+    "longitude": 79.595494,
+    "place_type": "village",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7732897641",
+    "name": "Malla",
+    "latitude": 30.10307,
+    "longitude": 79.617481,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7732897642",
+    "name": "Maila",
+    "latitude": 30.152265,
+    "longitude": 79.622003,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7732897644",
+    "name": "Bank",
+    "latitude": 30.129859,
+    "longitude": 79.626347,
+    "place_type": "village",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7732945482",
+    "name": "Tal",
+    "latitude": 30.016009,
+    "longitude": 79.534743,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7732945483",
+    "name": "Patla",
+    "latitude": 30.015409,
+    "longitude": 79.546698,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7732945484",
+    "name": "Boragad",
+    "latitude": 30.02873,
+    "longitude": 79.650087,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7732952285",
+    "name": "Odhar",
+    "latitude": 30.033299,
+    "longitude": 79.635104,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7732952286",
+    "name": "Koriyadhar",
+    "latitude": 30.020753,
+    "longitude": 79.598195,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7732952287",
+    "name": "Gaja Kharak",
+    "latitude": 30.038034,
+    "longitude": 79.594349,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7732952288",
+    "name": "Jaul Chaura",
+    "latitude": 30.03032,
+    "longitude": 79.563475,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7732952289",
+    "name": "Trikot",
+    "latitude": 30.035477,
+    "longitude": 79.545919,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7732952290",
+    "name": "Burjhola",
+    "latitude": 30.035733,
+    "longitude": 79.533179,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7732952291",
+    "name": "Ghandiyal",
+    "latitude": 30.030909,
+    "longitude": 79.533207,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7732952292",
+    "name": "Talwari",
+    "latitude": 30.038999,
+    "longitude": 79.516363,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7732952293",
+    "name": "Vijaypur",
+    "latitude": 30.047266,
+    "longitude": 79.530202,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7732952294",
+    "name": "Mainkhali",
+    "latitude": 30.091995,
+    "longitude": 79.523507,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7732952295",
+    "name": "Pharali",
+    "latitude": 30.108581,
+    "longitude": 79.570918,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7733346061",
+    "name": "Begar Nala",
+    "latitude": 30.342717,
+    "longitude": 79.503317,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7733346062",
+    "name": "Durmi",
+    "latitude": 30.371388,
+    "longitude": 79.512126,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7733346063",
+    "name": "Pagna",
+    "latitude": 30.372374,
+    "longitude": 79.536139,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7733346065",
+    "name": "Rupung",
+    "latitude": 30.488898,
+    "longitude": 79.5244,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7733346066",
+    "name": "Molta",
+    "latitude": 30.483112,
+    "longitude": 79.520766,
+    "place_type": "village",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7733346067",
+    "name": "Ganaj",
+    "latitude": 30.472544,
+    "longitude": 79.503674,
+    "place_type": "village",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7733346070",
+    "name": "Rangeli",
+    "latitude": 30.476478,
+    "longitude": 79.633141,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7733346071",
+    "name": "Rikhulti",
+    "latitude": 30.470313,
+    "longitude": 79.629518,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7733346072",
+    "name": "Dhurkunda",
+    "latitude": 30.463495,
+    "longitude": 79.626319,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7733460620",
+    "name": "Sik",
+    "latitude": 30.298196,
+    "longitude": 79.567215,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7733460621",
+    "name": "Madna",
+    "latitude": 30.267578,
+    "longitude": 79.562897,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7733460622",
+    "name": "Panmari",
+    "latitude": 30.25993,
+    "longitude": 79.568832,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7733460624",
+    "name": "Sarma",
+    "latitude": 30.249164,
+    "longitude": 79.584834,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7733823284",
+    "name": "KAGA",
+    "latitude": 30.612458,
+    "longitude": 79.82386,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7733839185",
+    "name": "GARPAK",
+    "latitude": 30.626908,
+    "longitude": 79.854244,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7733873609",
+    "name": "DRONAGIRI",
+    "latitude": 30.59917,
+    "longitude": 79.868041,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7733873626",
+    "name": "Panwarsa",
+    "latitude": 30.551729,
+    "longitude": 79.755313,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7733873627",
+    "name": "Pagti",
+    "latitude": 30.556644,
+    "longitude": 79.775816,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7733967766",
+    "name": "Kosa",
+    "latitude": 30.67793,
+    "longitude": 79.86095,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7741692243",
+    "name": "Telapata",
+    "latitude": 30.013262,
+    "longitude": 79.714238,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7741856329",
+    "name": "Daul",
+    "latitude": 30.08095,
+    "longitude": 79.854448,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7832247146",
+    "name": "Modoparan",
+    "latitude": 30.039006,
+    "longitude": 79.6824,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7832247147",
+    "name": "Kuling Garhi",
+    "latitude": 30.041021,
+    "longitude": 79.663786,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7832247148",
+    "name": "Chaur",
+    "latitude": 30.036452,
+    "longitude": 79.666586,
+    "place_type": "village",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7832252789",
+    "name": "Makhauti",
+    "latitude": 30.031603,
+    "longitude": 79.698649,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7832254646",
+    "name": "Baihtra",
+    "latitude": 30.141328,
+    "longitude": 79.715139,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7832254647",
+    "name": "Ghes",
+    "latitude": 30.129292,
+    "longitude": 79.703727,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7832270119",
+    "name": "Sarmata Tok",
+    "latitude": 30.117503,
+    "longitude": 79.701583,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7832270120",
+    "name": "Ukhaldhar",
+    "latitude": 30.133767,
+    "longitude": 79.684054,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7832270121",
+    "name": "Pinau",
+    "latitude": 30.13587,
+    "longitude": 79.691241,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7832289396",
+    "name": "Langari",
+    "latitude": 30.026959,
+    "longitude": 79.647853,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7832289397",
+    "name": "Pheti",
+    "latitude": 30.040966,
+    "longitude": 79.636438,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7832289398",
+    "name": "Kutera",
+    "latitude": 30.024953,
+    "longitude": 79.675405,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7832289399",
+    "name": "Batgaon",
+    "latitude": 30.029913,
+    "longitude": 79.673892,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7832317600",
+    "name": "Rwisan",
+    "latitude": 30.12769,
+    "longitude": 79.531934,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7832317601",
+    "name": "Ghungti",
+    "latitude": 30.123032,
+    "longitude": 79.527428,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7832317602",
+    "name": "Kunga",
+    "latitude": 30.13075,
+    "longitude": 79.512756,
+    "place_type": "village",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7832317603",
+    "name": "Deringkhera",
+    "latitude": 30.112967,
+    "longitude": 79.504882,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7832317604",
+    "name": "Kail",
+    "latitude": 30.064777,
+    "longitude": 79.584901,
+    "place_type": "village",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7832317605",
+    "name": "Kothmi",
+    "latitude": 30.058742,
+    "longitude": 79.579157,
+    "place_type": "village",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7832317606",
+    "name": "Sailkhola",
+    "latitude": 30.060774,
+    "longitude": 79.581163,
+    "place_type": "village",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7832317607",
+    "name": "Ichholi",
+    "latitude": 30.058954,
+    "longitude": 79.588416,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7832317608",
+    "name": "Padmalla",
+    "latitude": 30.047829,
+    "longitude": 79.598179,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7832317609",
+    "name": "Debal",
+    "latitude": 30.055502,
+    "longitude": 79.580346,
+    "place_type": "village",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7832317610",
+    "name": "Berdhar",
+    "latitude": 30.053595,
+    "longitude": 79.574907,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7832317611",
+    "name": "Syunigad",
+    "latitude": 30.049426,
+    "longitude": 79.57346,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7832317612",
+    "name": "Sarkot",
+    "latitude": 30.037111,
+    "longitude": 79.577107,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7832317613",
+    "name": "Parsongad",
+    "latitude": 30.020786,
+    "longitude": 79.566872,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7832326075",
+    "name": "Peri",
+    "latitude": 30.194261,
+    "longitude": 79.617715,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7832326076",
+    "name": "Talwani",
+    "latitude": 30.177525,
+    "longitude": 79.628338,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7832336780",
+    "name": "Baghar",
+    "latitude": 30.038635,
+    "longitude": 79.837496,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7832336781",
+    "name": "Harni",
+    "latitude": 30.121744,
+    "longitude": 79.598619,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7832524870",
+    "name": "Khuj",
+    "latitude": 30.043116,
+    "longitude": 79.963637,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7832524871",
+    "name": "Munar",
+    "latitude": 30.048051,
+    "longitude": 79.963794,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7832524872",
+    "name": "Bhanyarghar",
+    "latitude": 30.050646,
+    "longitude": 79.949991,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7832524873",
+    "name": "Dhakuri",
+    "latitude": 30.055344,
+    "longitude": 79.930749,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7832524875",
+    "name": "Arkot",
+    "latitude": 30.057539,
+    "longitude": 79.949184,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7832524876",
+    "name": "Darkot",
+    "latitude": 30.054414,
+    "longitude": 79.956947,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7832524877",
+    "name": "Rikhari",
+    "latitude": 30.05541,
+    "longitude": 79.967992,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7832524878",
+    "name": "Kansat",
+    "latitude": 30.059086,
+    "longitude": 79.964522,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7832524880",
+    "name": "Tarsal Patiyasar",
+    "latitude": 30.080181,
+    "longitude": 79.977176,
+    "place_type": "village",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7832524881",
+    "name": "Latpur",
+    "latitude": 30.080357,
+    "longitude": 79.969217,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7832524882",
+    "name": "Supi",
+    "latitude": 30.073655,
+    "longitude": 79.969654,
+    "place_type": "village",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7832524883",
+    "name": "Patiyasari",
+    "latitude": 30.074336,
+    "longitude": 79.978148,
+    "place_type": "village",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7832564486",
+    "name": "Baichham",
+    "latitude": 30.085412,
+    "longitude": 79.979305,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7832575961",
+    "name": "Chaurasthal",
+    "latitude": 30.033157,
+    "longitude": 79.930184,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7832575962",
+    "name": "Lwain",
+    "latitude": 30.026302,
+    "longitude": 79.924681,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7832575963",
+    "name": "Chauntari",
+    "latitude": 30.02747,
+    "longitude": 79.913111,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7832575964",
+    "name": "Kaphli Kamera",
+    "latitude": 30.021801,
+    "longitude": 79.922977,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7832575965",
+    "name": "Ghureriya",
+    "latitude": 30.013524,
+    "longitude": 79.928702,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7832810190",
+    "name": "Labagar",
+    "latitude": 30.116745,
+    "longitude": 79.932424,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7832810191",
+    "name": "Bhadang",
+    "latitude": 30.113114,
+    "longitude": 79.922898,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7832854690",
+    "name": "Ralchand Deota",
+    "latitude": 30.06678,
+    "longitude": 80.008711,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7832854692",
+    "name": "Lahur",
+    "latitude": 30.067246,
+    "longitude": 80.000135,
+    "place_type": "village",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7832868427",
+    "name": "Gaula",
+    "latitude": 30.038925,
+    "longitude": 80.086131,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7832868428",
+    "name": "Wathi",
+    "latitude": 30.050063,
+    "longitude": 80.086308,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7832868429",
+    "name": "Jiyugara",
+    "latitude": 30.056602,
+    "longitude": 80.092756,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833009756",
+    "name": "Gwat",
+    "latitude": 30.306672,
+    "longitude": 79.499742,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833009757",
+    "name": "Wadukh",
+    "latitude": 30.281426,
+    "longitude": 79.511538,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833009758",
+    "name": "Gulari",
+    "latitude": 30.281654,
+    "longitude": 79.530656,
+    "place_type": "village",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833009760",
+    "name": "Silbori",
+    "latitude": 30.273236,
+    "longitude": 79.538496,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833009761",
+    "name": "Lwani Sitel",
+    "latitude": 30.274845,
+    "longitude": 79.544309,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833009762",
+    "name": "Jokhwa Sitel",
+    "latitude": 30.28351,
+    "longitude": 79.553232,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833009763",
+    "name": "Gari",
+    "latitude": 30.279238,
+    "longitude": 79.565475,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833009764",
+    "name": "Uvathora",
+    "latitude": 30.279862,
+    "longitude": 79.574399,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833009765",
+    "name": "Paltingdhar",
+    "latitude": 30.278452,
+    "longitude": 79.586305,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833009766",
+    "name": "Pari",
+    "latitude": 30.289599,
+    "longitude": 79.586604,
+    "place_type": "village",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833009768",
+    "name": "Panjachauk",
+    "latitude": 30.280571,
+    "longitude": 79.601966,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833009769",
+    "name": "Bali",
+    "latitude": 30.269095,
+    "longitude": 79.600829,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833009770",
+    "name": "Sutol",
+    "latitude": 30.271808,
+    "longitude": 79.619677,
+    "place_type": "village",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833009771",
+    "name": "Baldimang",
+    "latitude": 30.284419,
+    "longitude": 79.625969,
+    "place_type": "village",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833009772",
+    "name": "Sugarh",
+    "latitude": 30.278208,
+    "longitude": 79.635787,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833009773",
+    "name": "Tatra",
+    "latitude": 30.267292,
+    "longitude": 79.639991,
+    "place_type": "village",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833009774",
+    "name": "Ghatbagar",
+    "latitude": 30.261583,
+    "longitude": 79.64532,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833070511",
+    "name": "Bilagarh",
+    "latitude": 30.495273,
+    "longitude": 79.619641,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833070512",
+    "name": "Bhangyul",
+    "latitude": 30.495689,
+    "longitude": 79.632117,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833070513",
+    "name": "Tapoban",
+    "latitude": 30.488531,
+    "longitude": 79.625267,
+    "place_type": "village",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833070514",
+    "name": "Saldhar",
+    "latitude": 30.487607,
+    "longitude": 79.666307,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833070515",
+    "name": "Chanchri",
+    "latitude": 30.483051,
+    "longitude": 79.666253,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833070516",
+    "name": "Juwagwar",
+    "latitude": 30.493122,
+    "longitude": 79.674317,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833070517",
+    "name": "Jugju",
+    "latitude": 30.490289,
+    "longitude": 79.690332,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833070518",
+    "name": "Reni",
+    "latitude": 30.485222,
+    "longitude": 79.691091,
+    "place_type": "village",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833070519",
+    "name": "Subhain",
+    "latitude": 30.478233,
+    "longitude": 79.676884,
+    "place_type": "village",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833070524",
+    "name": "Mothi",
+    "latitude": 30.382379,
+    "longitude": 79.590577,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833070525",
+    "name": "Lagna",
+    "latitude": 30.392353,
+    "longitude": 79.5813,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833103058",
+    "name": "Mamotta",
+    "latitude": 30.486703,
+    "longitude": 79.509404,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833103059",
+    "name": "Urchyuri",
+    "latitude": 30.490066,
+    "longitude": 79.532819,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833103060",
+    "name": "Chheli",
+    "latitude": 30.478242,
+    "longitude": 79.534663,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833130297",
+    "name": "Painka",
+    "latitude": 30.570617,
+    "longitude": 79.588824,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833130298",
+    "name": "Chain",
+    "latitude": 30.56699,
+    "longitude": 79.538794,
+    "place_type": "village",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833130299",
+    "name": "Parari",
+    "latitude": 30.573613,
+    "longitude": 79.513671,
+    "place_type": "village",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833130300",
+    "name": "Thaing",
+    "latitude": 30.566724,
+    "longitude": 79.50961,
+    "place_type": "village",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833130301",
+    "name": "Kanakar",
+    "latitude": 30.555036,
+    "longitude": 79.511706,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833130302",
+    "name": "Loani",
+    "latitude": 30.554232,
+    "longitude": 79.519369,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833130303",
+    "name": "Dasoli",
+    "latitude": 30.501403,
+    "longitude": 79.499335,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833130304",
+    "name": "Dumgri",
+    "latitude": 30.515334,
+    "longitude": 79.517315,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833130305",
+    "name": "Warosi",
+    "latitude": 30.510082,
+    "longitude": 79.512924,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833130306",
+    "name": "Solur",
+    "latitude": 30.505823,
+    "longitude": 79.51359,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833130307",
+    "name": "Dungra",
+    "latitude": 30.506969,
+    "longitude": 79.526917,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833130308",
+    "name": "Koti",
+    "latitude": 30.522763,
+    "longitude": 79.577524,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833130309",
+    "name": "Aira",
+    "latitude": 30.541684,
+    "longitude": 79.619081,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833130310",
+    "name": "Kharori",
+    "latitude": 30.521263,
+    "longitude": 79.599613,
+    "place_type": "village",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833130311",
+    "name": "Chormi",
+    "latitude": 30.513633,
+    "longitude": 79.608989,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833130312",
+    "name": "Kunj",
+    "latitude": 30.501864,
+    "longitude": 79.606162,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833130313",
+    "name": "Chamtoli",
+    "latitude": 30.500197,
+    "longitude": 79.616712,
+    "place_type": "village",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833130314",
+    "name": "Garghaniya",
+    "latitude": 30.500887,
+    "longitude": 79.624351,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833155599",
+    "name": "Mirag",
+    "latitude": 30.529559,
+    "longitude": 79.593281,
+    "place_type": "village",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833155600",
+    "name": "Oucha",
+    "latitude": 30.544045,
+    "longitude": 79.580974,
+    "place_type": "village",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833155601",
+    "name": "Premnagar",
+    "latitude": 30.5342,
+    "longitude": 79.58032,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833155602",
+    "name": "Dadon",
+    "latitude": 30.549702,
+    "longitude": 79.561309,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833155603",
+    "name": "Sunil",
+    "latitude": 30.551185,
+    "longitude": 79.547345,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833155604",
+    "name": "Gaunkh",
+    "latitude": 30.547229,
+    "longitude": 79.540211,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833155606",
+    "name": "Kajila",
+    "latitude": 30.697232,
+    "longitude": 79.589888,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833155607",
+    "name": "Sal",
+    "latitude": 30.64978,
+    "longitude": 79.58251,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833155608",
+    "name": "Will Pulna",
+    "latitude": 30.635211,
+    "longitude": 79.572456,
+    "place_type": "village",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833155609",
+    "name": "Kotkura",
+    "latitude": 30.630814,
+    "longitude": 79.568537,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833155610",
+    "name": "Pinola",
+    "latitude": 30.614341,
+    "longitude": 79.565286,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833167610",
+    "name": "Suki",
+    "latitude": 30.519594,
+    "longitude": 79.725294,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833167611",
+    "name": "Kuraipani",
+    "latitude": 30.5147,
+    "longitude": 79.720393,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833216656",
+    "name": "Charbang",
+    "latitude": 30.306863,
+    "longitude": 79.476992,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833216657",
+    "name": "Kumala",
+    "latitude": 30.348179,
+    "longitude": 79.498915,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833216658",
+    "name": "Madura",
+    "latitude": 30.353246,
+    "longitude": 79.468587,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833216659",
+    "name": "Hurung",
+    "latitude": 30.346196,
+    "longitude": 79.473775,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833216660",
+    "name": "Taraktal",
+    "latitude": 30.345427,
+    "longitude": 79.485022,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833216661",
+    "name": "Bimaru",
+    "latitude": 30.461188,
+    "longitude": 79.416871,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833216662",
+    "name": "Suranda",
+    "latitude": 30.455353,
+    "longitude": 79.417401,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833216663",
+    "name": "Bajani",
+    "latitude": 30.444294,
+    "longitude": 79.418872,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833216664",
+    "name": "Badumath",
+    "latitude": 30.448206,
+    "longitude": 79.418415,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833216665",
+    "name": "Tharetha",
+    "latitude": 30.45157,
+    "longitude": 79.420941,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833216668",
+    "name": "Gwar",
+    "latitude": 30.486038,
+    "longitude": 79.415271,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833216669",
+    "name": "Uchchhawa Gwar",
+    "latitude": 30.494972,
+    "longitude": 79.414247,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833216671",
+    "name": "Lanji",
+    "latitude": 30.480797,
+    "longitude": 79.44831,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833216672",
+    "name": "Dwing",
+    "latitude": 30.488652,
+    "longitude": 79.46205,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833216673",
+    "name": "Tangi Talli",
+    "latitude": 30.477273,
+    "longitude": 79.463743,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833216674",
+    "name": "Tangi Malli",
+    "latitude": 30.47758,
+    "longitude": 79.473452,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833216677",
+    "name": "Darni",
+    "latitude": 30.474921,
+    "longitude": 79.492321,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833216679",
+    "name": "Pagnau",
+    "latitude": 30.494535,
+    "longitude": 79.496299,
+    "place_type": "village",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833216680",
+    "name": "Lapon",
+    "latitude": 30.494112,
+    "longitude": 79.473156,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833216681",
+    "name": "Langsi",
+    "latitude": 30.49337,
+    "longitude": 79.479241,
+    "place_type": "village",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833216683",
+    "name": "Murunna",
+    "latitude": 30.469479,
+    "longitude": 79.703089,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833216684",
+    "name": "Paing",
+    "latitude": 30.472931,
+    "longitude": 79.713102,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833263899",
+    "name": "Bhanali",
+    "latitude": 30.378448,
+    "longitude": 79.47769,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833263902",
+    "name": "Sainj",
+    "latitude": 30.372271,
+    "longitude": 79.438462,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833263903",
+    "name": "Buransi",
+    "latitude": 30.290903,
+    "longitude": 79.440143,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833263904",
+    "name": "Kurali",
+    "latitude": 30.264451,
+    "longitude": 79.48177,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833263906",
+    "name": "Narangi",
+    "latitude": 30.263607,
+    "longitude": 79.465022,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833263907",
+    "name": "Pokhari",
+    "latitude": 30.27911,
+    "longitude": 79.467138,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833272962",
+    "name": "Serao",
+    "latitude": 30.33086,
+    "longitude": 79.362738,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833272963",
+    "name": "Jetha",
+    "latitude": 30.338943,
+    "longitude": 79.363004,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833272965",
+    "name": "Matai",
+    "latitude": 30.322796,
+    "longitude": 79.394968,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833272966",
+    "name": "Bhimtolla",
+    "latitude": 30.315976,
+    "longitude": 79.392387,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833272967",
+    "name": "Bunansidar",
+    "latitude": 30.325831,
+    "longitude": 79.425224,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833272968",
+    "name": "Sugal",
+    "latitude": 30.324287,
+    "longitude": 79.415264,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833272969",
+    "name": "Hung",
+    "latitude": 30.306641,
+    "longitude": 79.403489,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833272970",
+    "name": "Mawar",
+    "latitude": 30.298498,
+    "longitude": 79.397857,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833272971",
+    "name": "Choprakot",
+    "latitude": 30.293814,
+    "longitude": 79.393937,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833272972",
+    "name": "Channri",
+    "latitude": 30.291231,
+    "longitude": 79.39714,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833272973",
+    "name": "Manki",
+    "latitude": 30.292313,
+    "longitude": 79.403342,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833272974",
+    "name": "Khunana",
+    "latitude": 30.282522,
+    "longitude": 79.413887,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833272975",
+    "name": "Hema",
+    "latitude": 30.283399,
+    "longitude": 79.397335,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833272977",
+    "name": "Palla Baron",
+    "latitude": 30.27324,
+    "longitude": 79.389537,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833272978",
+    "name": "Chaumass",
+    "latitude": 30.264706,
+    "longitude": 79.41819,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833272979",
+    "name": "Wanswara",
+    "latitude": 30.265107,
+    "longitude": 79.406826,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833272980",
+    "name": "Talla Baron",
+    "latitude": 30.26723,
+    "longitude": 79.396721,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833272981",
+    "name": "Malla Baron",
+    "latitude": 30.26489,
+    "longitude": 79.394144,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833272982",
+    "name": "Talla Makh",
+    "latitude": 30.262508,
+    "longitude": 79.402922,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833272983",
+    "name": "Malla Makh",
+    "latitude": 30.253599,
+    "longitude": 79.398909,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833272984",
+    "name": "Dhurma",
+    "latitude": 30.253522,
+    "longitude": 79.405064,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833299786",
+    "name": "Simula",
+    "latitude": 30.363064,
+    "longitude": 79.484245,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833299787",
+    "name": "Gauga",
+    "latitude": 30.373597,
+    "longitude": 79.485612,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833507452",
+    "name": "Jiloti",
+    "latitude": 30.297532,
+    "longitude": 79.269634,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833507453",
+    "name": "Maatgaon",
+    "latitude": 30.301443,
+    "longitude": 79.263731,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833507454",
+    "name": "Ali",
+    "latitude": 30.314285,
+    "longitude": 79.250035,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833507455",
+    "name": "Sattur",
+    "latitude": 30.320777,
+    "longitude": 79.249663,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833507456",
+    "name": "Sendungra",
+    "latitude": 30.307074,
+    "longitude": 79.25813,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833507457",
+    "name": "Kandol",
+    "latitude": 30.310352,
+    "longitude": 79.25791,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833507458",
+    "name": "Birikat",
+    "latitude": 30.345105,
+    "longitude": 79.281374,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833507459",
+    "name": "Sengha",
+    "latitude": 30.345807,
+    "longitude": 79.263312,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833507460",
+    "name": "Chak",
+    "latitude": 30.342837,
+    "longitude": 79.26948,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833507461",
+    "name": "Gorsal",
+    "latitude": 30.360953,
+    "longitude": 79.289663,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833507462",
+    "name": "Gonjer",
+    "latitude": 30.349188,
+    "longitude": 79.268116,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833507463",
+    "name": "Maithana",
+    "latitude": 30.363677,
+    "longitude": 79.315674,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833507464",
+    "name": "Samdungra",
+    "latitude": 30.373069,
+    "longitude": 79.323392,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833507465",
+    "name": "Palaitha",
+    "latitude": 30.359967,
+    "longitude": 79.32531,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833507466",
+    "name": "Khainuri",
+    "latitude": 30.397893,
+    "longitude": 79.370493,
+    "place_type": "village",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833507467",
+    "name": "Lasi",
+    "latitude": 30.384072,
+    "longitude": 79.350427,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833507469",
+    "name": "Lashyara",
+    "latitude": 30.379909,
+    "longitude": 79.346153,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833507471",
+    "name": "Majathi",
+    "latitude": 30.373356,
+    "longitude": 79.351466,
+    "place_type": "village",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833507472",
+    "name": "Nathol Chak",
+    "latitude": 30.362968,
+    "longitude": 79.340776,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833507474",
+    "name": "Bhainti",
+    "latitude": 30.354311,
+    "longitude": 79.337641,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833507476",
+    "name": "Matharpal",
+    "latitude": 30.338125,
+    "longitude": 79.342463,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833507477",
+    "name": "Dharkot",
+    "latitude": 30.33814,
+    "longitude": 79.337975,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833507478",
+    "name": "Bhatgyala",
+    "latitude": 30.341098,
+    "longitude": 79.355311,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833507479",
+    "name": "Mair",
+    "latitude": 30.346234,
+    "longitude": 79.35472,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833522413",
+    "name": "Sankand",
+    "latitude": 30.325202,
+    "longitude": 79.343118,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833522414",
+    "name": "Bherni",
+    "latitude": 30.317995,
+    "longitude": 79.347015,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833522415",
+    "name": "Paniger",
+    "latitude": 30.317106,
+    "longitude": 79.352746,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833522416",
+    "name": "Simti",
+    "latitude": 30.310368,
+    "longitude": 79.346786,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833522417",
+    "name": "Batoli",
+    "latitude": 30.295825,
+    "longitude": 79.325951,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833522418",
+    "name": "Gwala",
+    "latitude": 30.303577,
+    "longitude": 79.33923,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833522419",
+    "name": "Taphana",
+    "latitude": 30.30489,
+    "longitude": 79.328753,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833522421",
+    "name": "Thirpak",
+    "latitude": 30.301146,
+    "longitude": 79.359155,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833522422",
+    "name": "Kotigaon",
+    "latitude": 30.292471,
+    "longitude": 79.334216,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833522423",
+    "name": "Chatingyala",
+    "latitude": 30.298476,
+    "longitude": 79.332669,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833522424",
+    "name": "Hindoli",
+    "latitude": 30.288917,
+    "longitude": 79.331422,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833522425",
+    "name": "Kalwan Chak",
+    "latitude": 30.284722,
+    "longitude": 79.34165,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833522426",
+    "name": "Pulau Chak",
+    "latitude": 30.270509,
+    "longitude": 79.338716,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833522427",
+    "name": "Bhani Chak",
+    "latitude": 30.278279,
+    "longitude": 79.324434,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833522428",
+    "name": "Dasoligarh",
+    "latitude": 30.281406,
+    "longitude": 79.322778,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833522429",
+    "name": "Rointha",
+    "latitude": 30.252023,
+    "longitude": 79.307979,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833522430",
+    "name": "Gainsaja",
+    "latitude": 30.258222,
+    "longitude": 79.296526,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833522431",
+    "name": "Sanj",
+    "latitude": 30.270089,
+    "longitude": 79.302778,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833522432",
+    "name": "Maikhura",
+    "latitude": 30.268999,
+    "longitude": 79.272834,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833522433",
+    "name": "Ganoli",
+    "latitude": 30.263995,
+    "longitude": 79.264778,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833522435",
+    "name": "Sirtoli",
+    "latitude": 30.279931,
+    "longitude": 79.25622,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833522436",
+    "name": "Airas",
+    "latitude": 30.297659,
+    "longitude": 79.252225,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833568788",
+    "name": "Gadora",
+    "latitude": 30.417367,
+    "longitude": 79.429497,
+    "place_type": "village",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833568789",
+    "name": "Batula",
+    "latitude": 30.413523,
+    "longitude": 79.417176,
+    "place_type": "village",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833568790",
+    "name": "Mahargaon",
+    "latitude": 30.406112,
+    "longitude": 79.420581,
+    "place_type": "village",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833568791",
+    "name": "Kiruli",
+    "latitude": 30.412096,
+    "longitude": 79.436882,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833568792",
+    "name": "Shalla",
+    "latitude": 30.426726,
+    "longitude": 79.436511,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833568793",
+    "name": "Nargoli",
+    "latitude": 30.422719,
+    "longitude": 79.43701,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833568794",
+    "name": "Kamyar",
+    "latitude": 30.417401,
+    "longitude": 79.447924,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833584632",
+    "name": "Nakot",
+    "latitude": 30.255588,
+    "longitude": 79.246754,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833584633",
+    "name": "Khola",
+    "latitude": 30.250988,
+    "longitude": 79.254433,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833584635",
+    "name": "Talla Kanukhul",
+    "latitude": 30.255824,
+    "longitude": 79.265289,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833584636",
+    "name": "Malla Kanukhul",
+    "latitude": 30.254194,
+    "longitude": 79.271394,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833584637",
+    "name": "Dhantala",
+    "latitude": 30.260379,
+    "longitude": 79.285461,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833584638",
+    "name": "Kachula",
+    "latitude": 30.265849,
+    "longitude": 79.289231,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833584639",
+    "name": "Wanoli",
+    "latitude": 30.279758,
+    "longitude": 79.272501,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833584640",
+    "name": "Swarkha",
+    "latitude": 30.284104,
+    "longitude": 79.279183,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833584641",
+    "name": "Sonka",
+    "latitude": 30.278107,
+    "longitude": 79.289075,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833584642",
+    "name": "Ulphara",
+    "latitude": 30.281016,
+    "longitude": 79.29165,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833584643",
+    "name": "Gharkuti",
+    "latitude": 30.275902,
+    "longitude": 79.299729,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833584644",
+    "name": "Mason",
+    "latitude": 30.289362,
+    "longitude": 79.288089,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833584645",
+    "name": "Limrakot",
+    "latitude": 30.291036,
+    "longitude": 79.301632,
+    "place_type": "village",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833584646",
+    "name": "Nyauli",
+    "latitude": 30.299136,
+    "longitude": 79.303622,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833584647",
+    "name": "Harkti",
+    "latitude": 30.302731,
+    "longitude": 79.306067,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833584648",
+    "name": "Girsa",
+    "latitude": 30.300443,
+    "longitude": 79.284265,
+    "place_type": "village",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833584650",
+    "name": "Uttaun",
+    "latitude": 30.316229,
+    "longitude": 79.295154,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833635474",
+    "name": "Ghinapani",
+    "latitude": 30.144833,
+    "longitude": 79.487009,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833635475",
+    "name": "Ruisan",
+    "latitude": 30.1393,
+    "longitude": 79.488531,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833635478",
+    "name": "Bangali",
+    "latitude": 30.192797,
+    "longitude": 79.470181,
+    "place_type": "village",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833635480",
+    "name": "Ghinaura",
+    "latitude": 30.213498,
+    "longitude": 79.491746,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833635481",
+    "name": "Bhent",
+    "latitude": 30.214376,
+    "longitude": 79.482605,
+    "place_type": "village",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833635482",
+    "name": "Mingtir",
+    "latitude": 30.214767,
+    "longitude": 79.472201,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833635483",
+    "name": "Banjbagar",
+    "latitude": 30.214331,
+    "longitude": 79.452886,
+    "place_type": "village",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833635484",
+    "name": "Majkot",
+    "latitude": 30.226458,
+    "longitude": 79.467583,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833637985",
+    "name": "MAHAR GAON",
+    "latitude": 30.710942,
+    "longitude": 79.874373,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833637986",
+    "name": "Kurkuti",
+    "latitude": 30.706595,
+    "longitude": 79.875433,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833637989",
+    "name": "Tamak",
+    "latitude": 30.597192,
+    "longitude": 79.785314,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833637990",
+    "name": "Markura",
+    "latitude": 30.586753,
+    "longitude": 79.777643,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833637991",
+    "name": "Naug",
+    "latitude": 30.592598,
+    "longitude": 79.770413,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833668036",
+    "name": "Kunturi",
+    "latitude": 30.241688,
+    "longitude": 79.442604,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833668037",
+    "name": "Senthi",
+    "latitude": 30.23672,
+    "longitude": 79.448039,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833668038",
+    "name": "Ustoli",
+    "latitude": 30.246519,
+    "longitude": 79.45756,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833668039",
+    "name": "Phali",
+    "latitude": 30.244147,
+    "longitude": 79.450732,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833668040",
+    "name": "Ryal Bagar",
+    "latitude": 30.711076,
+    "longitude": 79.843546,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833682085",
+    "name": "Lakhi",
+    "latitude": 30.226303,
+    "longitude": 79.455607,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833693448",
+    "name": "Rakra",
+    "latitude": 30.084094,
+    "longitude": 79.476656,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833693449",
+    "name": "Sunila",
+    "latitude": 30.086093,
+    "longitude": 79.478111,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833693450",
+    "name": "Dhalu",
+    "latitude": 30.072162,
+    "longitude": 79.470259,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833693451",
+    "name": "Deval",
+    "latitude": 30.075503,
+    "longitude": 79.480739,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833693452",
+    "name": "Kimni",
+    "latitude": 30.079048,
+    "longitude": 79.479133,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833693453",
+    "name": "Meltha",
+    "latitude": 30.075013,
+    "longitude": 79.475997,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833693454",
+    "name": "Mal Bajwar",
+    "latitude": 30.071094,
+    "longitude": 79.479933,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833693455",
+    "name": "Chaanda",
+    "latitude": 30.077269,
+    "longitude": 79.487165,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833693456",
+    "name": "Rakoil",
+    "latitude": 30.071434,
+    "longitude": 79.494415,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833693459",
+    "name": "Sunaun",
+    "latitude": 30.087691,
+    "longitude": 79.490539,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833693462",
+    "name": "Main",
+    "latitude": 30.101106,
+    "longitude": 79.497341,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833693464",
+    "name": "Kewar",
+    "latitude": 30.113187,
+    "longitude": 79.496238,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833717308",
+    "name": "Meta Malla",
+    "latitude": 30.08045,
+    "longitude": 79.44753,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833717309",
+    "name": "Jabarkot",
+    "latitude": 30.090801,
+    "longitude": 79.441199,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833717310",
+    "name": "Dharbaram",
+    "latitude": 30.086353,
+    "longitude": 79.434889,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833717311",
+    "name": "Meta Talla",
+    "latitude": 30.084663,
+    "longitude": 79.447753,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833717312",
+    "name": "Buradang",
+    "latitude": 30.088906,
+    "longitude": 79.451755,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833717313",
+    "name": "Nail",
+    "latitude": 30.077358,
+    "longitude": 79.46063,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833717314",
+    "name": "Salpur",
+    "latitude": 30.080168,
+    "longitude": 79.454111,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833717315",
+    "name": "Bhatiyana",
+    "latitude": 30.07507,
+    "longitude": 79.443187,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833717316",
+    "name": "Alkot",
+    "latitude": 30.070123,
+    "longitude": 79.445778,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833717318",
+    "name": "Kusankhat",
+    "latitude": 30.006794,
+    "longitude": 79.464622,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833725074",
+    "name": "Bhudera",
+    "latitude": 30.114427,
+    "longitude": 79.368446,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833725075",
+    "name": "Raulgoon",
+    "latitude": 30.118565,
+    "longitude": 79.367265,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833725076",
+    "name": "Than",
+    "latitude": 30.122049,
+    "longitude": 79.368576,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833725077",
+    "name": "Banela",
+    "latitude": 30.130817,
+    "longitude": 79.408275,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833725079",
+    "name": "Paithani",
+    "latitude": 30.124316,
+    "longitude": 79.40304,
+    "place_type": "village",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833725080",
+    "name": "Binayak",
+    "latitude": 30.118883,
+    "longitude": 79.394197,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833725081",
+    "name": "Binwalgaon",
+    "latitude": 30.118067,
+    "longitude": 79.388294,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833725082",
+    "name": "Ming",
+    "latitude": 30.117791,
+    "longitude": 79.39933,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833725083",
+    "name": "Bainoli",
+    "latitude": 30.114085,
+    "longitude": 79.399512,
+    "place_type": "village",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833725084",
+    "name": "Hanskoti",
+    "latitude": 30.108638,
+    "longitude": 79.39402,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833730012",
+    "name": "Sanyara",
+    "latitude": 30.09718,
+    "longitude": 79.407465,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833730013",
+    "name": "Dangtoli",
+    "latitude": 30.104938,
+    "longitude": 79.411587,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833730014",
+    "name": "Silori",
+    "latitude": 30.102476,
+    "longitude": 79.413907,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833730015",
+    "name": "Devpuri",
+    "latitude": 30.10367,
+    "longitude": 79.418036,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833730016",
+    "name": "Chhapali",
+    "latitude": 30.099585,
+    "longitude": 79.424243,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833730017",
+    "name": "Malia",
+    "latitude": 30.10702,
+    "longitude": 79.431552,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833730018",
+    "name": "Paingarh",
+    "latitude": 30.103689,
+    "longitude": 79.443316,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833730019",
+    "name": "Maltura",
+    "latitude": 30.095792,
+    "longitude": 79.428461,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833730020",
+    "name": "Bhyarl",
+    "latitude": 30.093908,
+    "longitude": 79.423704,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833730021",
+    "name": "Tyula",
+    "latitude": 30.090783,
+    "longitude": 79.425441,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833730022",
+    "name": "Garibaram",
+    "latitude": 30.082714,
+    "longitude": 79.427066,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833730023",
+    "name": "Naptol",
+    "latitude": 30.077095,
+    "longitude": 79.419329,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833730024",
+    "name": "Rei",
+    "latitude": 30.064307,
+    "longitude": 79.423687,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833730025",
+    "name": "Jhijholi",
+    "latitude": 30.072103,
+    "longitude": 79.44108,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833753332",
+    "name": "Gwarangi Kharak",
+    "latitude": 30.109202,
+    "longitude": 79.355005,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833758885",
+    "name": "Garkot",
+    "latitude": 30.098961,
+    "longitude": 79.379969,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833758886",
+    "name": "Marora",
+    "latitude": 30.101547,
+    "longitude": 79.376293,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833758887",
+    "name": "Naugaon",
+    "latitude": 30.092768,
+    "longitude": 79.373083,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833758888",
+    "name": "Kansuwa",
+    "latitude": 30.092494,
+    "longitude": 79.378194,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833758889",
+    "name": "Meduni",
+    "latitude": 30.083801,
+    "longitude": 79.38068,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833758890",
+    "name": "Angotha",
+    "latitude": 30.08961,
+    "longitude": 79.389318,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833758891",
+    "name": "Jeora",
+    "latitude": 30.097522,
+    "longitude": 79.392565,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833758892",
+    "name": "Nauli",
+    "latitude": 30.101307,
+    "longitude": 79.393788,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833793300",
+    "name": "Kob",
+    "latitude": 30.119871,
+    "longitude": 79.373895,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833793301",
+    "name": "Khakora",
+    "latitude": 30.124792,
+    "longitude": 79.374436,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833793302",
+    "name": "Laguna",
+    "latitude": 30.133372,
+    "longitude": 79.369136,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833793303",
+    "name": "Bedula",
+    "latitude": 30.133327,
+    "longitude": 79.363818,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833793305",
+    "name": "Patuari",
+    "latitude": 30.124846,
+    "longitude": 79.340462,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833793308",
+    "name": "Kimoli",
+    "latitude": 30.106771,
+    "longitude": 79.323025,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833793309",
+    "name": "Bunga",
+    "latitude": 30.116202,
+    "longitude": 79.332592,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833793310",
+    "name": "Naini",
+    "latitude": 30.120518,
+    "longitude": 79.347357,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833793311",
+    "name": "Agar",
+    "latitude": 30.109893,
+    "longitude": 79.332038,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833793312",
+    "name": "Dharh",
+    "latitude": 30.109749,
+    "longitude": 79.342376,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833793313",
+    "name": "Swan",
+    "latitude": 30.100393,
+    "longitude": 79.339041,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833793315",
+    "name": "Talla Simana",
+    "latitude": 30.022638,
+    "longitude": 79.304414,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833793319",
+    "name": "Syuni Mali",
+    "latitude": 30.015486,
+    "longitude": 79.328568,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833812166",
+    "name": "Ayun",
+    "latitude": 30.057133,
+    "longitude": 79.255298,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833812167",
+    "name": "Devimadola",
+    "latitude": 30.058994,
+    "longitude": 79.253163,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833812168",
+    "name": "Sena",
+    "latitude": 30.059634,
+    "longitude": 79.265976,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833812169",
+    "name": "Jagri",
+    "latitude": 30.063067,
+    "longitude": 79.273145,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833812170",
+    "name": "Parkandai Malli",
+    "latitude": 30.065609,
+    "longitude": 79.259762,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833812171",
+    "name": "Parkandai Talli",
+    "latitude": 30.061904,
+    "longitude": 79.260937,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833812173",
+    "name": "Kumoli",
+    "latitude": 30.055413,
+    "longitude": 79.273704,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833812174",
+    "name": "Rikholi",
+    "latitude": 30.056814,
+    "longitude": 79.283393,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833812175",
+    "name": "Sonyana",
+    "latitude": 30.044781,
+    "longitude": 79.290586,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833812176",
+    "name": "Kartiyan",
+    "latitude": 30.039224,
+    "longitude": 79.287287,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833812178",
+    "name": "Kothyar",
+    "latitude": 30.037934,
+    "longitude": 79.277598,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833812179",
+    "name": "Ganwali",
+    "latitude": 30.043024,
+    "longitude": 79.282,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833812180",
+    "name": "Pariyana",
+    "latitude": 30.043294,
+    "longitude": 79.265385,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833812181",
+    "name": "Matkot",
+    "latitude": 30.037261,
+    "longitude": 79.261678,
+    "place_type": "village",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833812182",
+    "name": "Andrayan",
+    "latitude": 30.023861,
+    "longitude": 79.270048,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833812183",
+    "name": "Kulgad",
+    "latitude": 30.028238,
+    "longitude": 79.273564,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833812184",
+    "name": "Simana",
+    "latitude": 30.01958,
+    "longitude": 79.299132,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833823975",
+    "name": "Nakholi",
+    "latitude": 30.160064,
+    "longitude": 79.424569,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833823976",
+    "name": "Sankot",
+    "latitude": 30.166307,
+    "longitude": 79.432695,
+    "place_type": "village",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833823977",
+    "name": "Dewar",
+    "latitude": 30.1681,
+    "longitude": 79.425324,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833823980",
+    "name": "Tunera",
+    "latitude": 30.181051,
+    "longitude": 79.372145,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833823981",
+    "name": "Bhangota",
+    "latitude": 30.18291,
+    "longitude": 79.379971,
+    "place_type": "village",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833823982",
+    "name": "Chopta",
+    "latitude": 30.180185,
+    "longitude": 79.367685,
+    "place_type": "village",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833823983",
+    "name": "Rains",
+    "latitude": 30.185796,
+    "longitude": 79.369672,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833823984",
+    "name": "Bethra",
+    "latitude": 30.194084,
+    "longitude": 79.366063,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833826573",
+    "name": "Sauta",
+    "latitude": 30.087848,
+    "longitude": 79.374859,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833826574",
+    "name": "Khainoli",
+    "latitude": 30.081402,
+    "longitude": 79.371299,
+    "place_type": "village",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833826575",
+    "name": "Chaumanda Dhar",
+    "latitude": 30.106289,
+    "longitude": 79.366138,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833829075",
+    "name": "Barmoli",
+    "latitude": 30.220593,
+    "longitude": 79.288178,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833829076",
+    "name": "Ankhudi",
+    "latitude": 30.218215,
+    "longitude": 79.298977,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833829077",
+    "name": "Dhasari",
+    "latitude": 30.220842,
+    "longitude": 79.300786,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833829079",
+    "name": "Jasyara",
+    "latitude": 30.226366,
+    "longitude": 79.302571,
+    "place_type": "village",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833829080",
+    "name": "Khatyari",
+    "latitude": 30.216997,
+    "longitude": 79.31199,
+    "place_type": "village",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833829081",
+    "name": "Padli",
+    "latitude": 30.211693,
+    "longitude": 79.315745,
+    "place_type": "village",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833829082",
+    "name": "Hyuna",
+    "latitude": 30.208718,
+    "longitude": 79.319596,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833829083",
+    "name": "Serapankhudi",
+    "latitude": 30.19951,
+    "longitude": 79.328062,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833829084",
+    "name": "Sunai",
+    "latitude": 30.203662,
+    "longitude": 79.317722,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833834678",
+    "name": "Gain",
+    "latitude": 30.246182,
+    "longitude": 79.310002,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833834679",
+    "name": "Pholota",
+    "latitude": 30.238065,
+    "longitude": 79.290286,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833834680",
+    "name": "Sumalta",
+    "latitude": 30.23221,
+    "longitude": 79.273019,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833834681",
+    "name": "Rarki",
+    "latitude": 30.235006,
+    "longitude": 79.252574,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833834683",
+    "name": "Simli Bazar",
+    "latitude": 30.230912,
+    "longitude": 79.259296,
+    "place_type": "village",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833842885",
+    "name": "Panchali",
+    "latitude": 30.02027,
+    "longitude": 79.285489,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833842887",
+    "name": "Som",
+    "latitude": 30.008522,
+    "longitude": 79.296063,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833842888",
+    "name": "Kolak",
+    "latitude": 30.013442,
+    "longitude": 79.298157,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833842889",
+    "name": "Buakhana",
+    "latitude": 30.012397,
+    "longitude": 79.306941,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833842890",
+    "name": "Pharsaun",
+    "latitude": 30.006992,
+    "longitude": 79.316603,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833842891",
+    "name": "Harsari",
+    "latitude": 30.001978,
+    "longitude": 79.315664,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833842892",
+    "name": "Jingor",
+    "latitude": 30.006943,
+    "longitude": 79.309369,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833854252",
+    "name": "Malsi",
+    "latitude": 30.124093,
+    "longitude": 79.275976,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833854254",
+    "name": "Sirana",
+    "latitude": 30.116338,
+    "longitude": 79.263278,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833854255",
+    "name": "Batogarh",
+    "latitude": 30.104144,
+    "longitude": 79.257481,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833854256",
+    "name": "Chorara",
+    "latitude": 30.107611,
+    "longitude": 79.252491,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833854257",
+    "name": "Parwari",
+    "latitude": 30.087829,
+    "longitude": 79.256896,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833854258",
+    "name": "Bhararisain",
+    "latitude": 30.095677,
+    "longitude": 79.264655,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833868785",
+    "name": "Shyan",
+    "latitude": 30.201317,
+    "longitude": 79.306683,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833868787",
+    "name": "Purna",
+    "latitude": 30.187148,
+    "longitude": 79.296612,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833868788",
+    "name": "Thrikot",
+    "latitude": 30.18418,
+    "longitude": 79.298599,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833868789",
+    "name": "Sauna",
+    "latitude": 30.183644,
+    "longitude": 79.303244,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833868790",
+    "name": "Chula",
+    "latitude": 30.178705,
+    "longitude": 79.306852,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833868791",
+    "name": "Gabni",
+    "latitude": 30.173229,
+    "longitude": 79.314356,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833868792",
+    "name": "Jaintha",
+    "latitude": 30.175879,
+    "longitude": 79.286505,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833868794",
+    "name": "Golak",
+    "latitude": 30.167694,
+    "longitude": 79.277613,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833868795",
+    "name": "Khoti",
+    "latitude": 30.160446,
+    "longitude": 79.281547,
+    "place_type": "village",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833868797",
+    "name": "Kheti",
+    "latitude": 30.133981,
+    "longitude": 79.261561,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833869337",
+    "name": "Dimmar",
+    "latitude": 30.248336,
+    "longitude": 79.25007,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833869339",
+    "name": "Bidoli",
+    "latitude": 30.247798,
+    "longitude": 79.268963,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833869340",
+    "name": "Dhardungri",
+    "latitude": 30.240511,
+    "longitude": 79.267111,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833869342",
+    "name": "Koladungri",
+    "latitude": 30.239794,
+    "longitude": 79.277954,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833869343",
+    "name": "Suktoli",
+    "latitude": 30.235639,
+    "longitude": 79.281234,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833869344",
+    "name": "Bangri",
+    "latitude": 30.225869,
+    "longitude": 79.273397,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833869345",
+    "name": "Kelapani",
+    "latitude": 30.217723,
+    "longitude": 79.280788,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833882677",
+    "name": "Dobriya",
+    "latitude": 30.144302,
+    "longitude": 79.364269,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833882678",
+    "name": "Talla Kewar",
+    "latitude": 30.143155,
+    "longitude": 79.367829,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833882679",
+    "name": "Malla Kewar",
+    "latitude": 30.142179,
+    "longitude": 79.366295,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833882680",
+    "name": "Ratni",
+    "latitude": 30.140536,
+    "longitude": 79.358652,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833882681",
+    "name": "Mauna",
+    "latitude": 30.149688,
+    "longitude": 79.352894,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833882682",
+    "name": "Bhagwati",
+    "latitude": 30.146585,
+    "longitude": 79.361269,
+    "place_type": "village",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833882683",
+    "name": "Chhaikura",
+    "latitude": 30.143563,
+    "longitude": 79.34508,
+    "place_type": "village",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833883506",
+    "name": "Silla",
+    "latitude": 30.120985,
+    "longitude": 79.436626,
+    "place_type": "village",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833883507",
+    "name": "Kotha Rajondi",
+    "latitude": 30.133367,
+    "longitude": 79.431546,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833883509",
+    "name": "Childinga Talla",
+    "latitude": 30.127679,
+    "longitude": 79.422271,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833883510",
+    "name": "Garkhot",
+    "latitude": 30.130435,
+    "longitude": 79.416175,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833883511",
+    "name": "Ariyululi",
+    "latitude": 30.137324,
+    "longitude": 79.416315,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833883512",
+    "name": "Sainar",
+    "latitude": 30.141455,
+    "longitude": 79.41592,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833883513",
+    "name": "Painti",
+    "latitude": 30.149969,
+    "longitude": 79.418197,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833883515",
+    "name": "Ira",
+    "latitude": 30.156824,
+    "longitude": 79.425487,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833888886",
+    "name": "Kaphartir",
+    "latitude": 30.199441,
+    "longitude": 79.349927,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833888890",
+    "name": "Kundi",
+    "latitude": 30.242677,
+    "longitude": 79.398809,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833888891",
+    "name": "Sunbhi",
+    "latitude": 30.240705,
+    "longitude": 79.353335,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833888893",
+    "name": "Kot",
+    "latitude": 30.226727,
+    "longitude": 79.346641,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833888894",
+    "name": "Kothli",
+    "latitude": 30.223693,
+    "longitude": 79.35465,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833888895",
+    "name": "Kothra",
+    "latitude": 30.228576,
+    "longitude": 79.357816,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833890870",
+    "name": "Bergaon",
+    "latitude": 30.15615,
+    "longitude": 79.382512,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833890872",
+    "name": "Chaliyapani",
+    "latitude": 30.172466,
+    "longitude": 79.372398,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833896005",
+    "name": "Chirkun",
+    "latitude": 30.215855,
+    "longitude": 79.349422,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833896007",
+    "name": "Silkoti",
+    "latitude": 30.162804,
+    "longitude": 79.407134,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833896008",
+    "name": "Raingaon",
+    "latitude": 30.158297,
+    "longitude": 79.401081,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833896009",
+    "name": "Siri",
+    "latitude": 30.167053,
+    "longitude": 79.398286,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833912185",
+    "name": "Kandwal",
+    "latitude": 30.151986,
+    "longitude": 79.341884,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833912186",
+    "name": "Gandik",
+    "latitude": 30.159674,
+    "longitude": 79.332635,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833912187",
+    "name": "Kapholi",
+    "latitude": 30.16346,
+    "longitude": 79.321804,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7833912189",
+    "name": "Pali",
+    "latitude": 30.113775,
+    "longitude": 79.391689,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7834388275",
+    "name": "Gulabkoti",
+    "latitude": 30.504635,
+    "longitude": 79.491607,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7834388276",
+    "name": "Palam",
+    "latitude": 30.501367,
+    "longitude": 79.487073,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7834388280",
+    "name": "Jangro",
+    "latitude": 30.515741,
+    "longitude": 79.391626,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7834413370",
+    "name": "Khirao",
+    "latitude": 30.684956,
+    "longitude": 79.476337,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7834421755",
+    "name": "Botha",
+    "latitude": 30.540643,
+    "longitude": 79.470164,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7834421756",
+    "name": "Pilkni",
+    "latitude": 30.538421,
+    "longitude": 79.479242,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7834421757",
+    "name": "Goana",
+    "latitude": 30.537083,
+    "longitude": 79.491294,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7834421758",
+    "name": "Aroshi",
+    "latitude": 30.537537,
+    "longitude": 79.496821,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7834445152",
+    "name": "Gira",
+    "latitude": 30.537149,
+    "longitude": 79.449851,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7834445153",
+    "name": "Bansa",
+    "latitude": 30.529061,
+    "longitude": 79.44123,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7834445154",
+    "name": "Kalpeshwar",
+    "latitude": 30.548923,
+    "longitude": 79.454765,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7834445155",
+    "name": "Barki",
+    "latitude": 30.548419,
+    "longitude": 79.460013,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7835193309",
+    "name": "Kolgam",
+    "latitude": 30.405894,
+    "longitude": 79.231063,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7835193310",
+    "name": "Guram",
+    "latitude": 30.414155,
+    "longitude": 79.226759,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7835193311",
+    "name": "Jagda",
+    "latitude": 30.413548,
+    "longitude": 79.231377,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7835193312",
+    "name": "Koinda",
+    "latitude": 30.416087,
+    "longitude": 79.239903,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7835193315",
+    "name": "Kunjeni",
+    "latitude": 30.434218,
+    "longitude": 79.222974,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7835193321",
+    "name": "Bhulkhana Chatti",
+    "latitude": 30.477581,
+    "longitude": 79.209986,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7835213497",
+    "name": "Kalsir",
+    "latitude": 30.438204,
+    "longitude": 79.207901,
+    "place_type": "village",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7835213500",
+    "name": "Pati",
+    "latitude": 30.42436,
+    "longitude": 79.20437,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7835213501",
+    "name": "Jakhmala",
+    "latitude": 30.422759,
+    "longitude": 79.203141,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7835213502",
+    "name": "Thalgarh",
+    "latitude": 30.430317,
+    "longitude": 79.210612,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7835213503",
+    "name": "Godali",
+    "latitude": 30.423297,
+    "longitude": 79.21098,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7835213504",
+    "name": "Masoli",
+    "latitude": 30.415471,
+    "longitude": 79.215806,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7835213505",
+    "name": "Kukartoli",
+    "latitude": 30.408631,
+    "longitude": 79.216829,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7835383262",
+    "name": "Visalkhal",
+    "latitude": 30.341545,
+    "longitude": 79.217719,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7835383263",
+    "name": "Sarana",
+    "latitude": 30.340502,
+    "longitude": 79.222295,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7835383264",
+    "name": "Rasodha",
+    "latitude": 30.337373,
+    "longitude": 79.224487,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7835383265",
+    "name": "Gugli",
+    "latitude": 30.3354,
+    "longitude": 79.220395,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7835383266",
+    "name": "Sauramanga",
+    "latitude": 30.334461,
+    "longitude": 79.229285,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7835383267",
+    "name": "Vena Malla",
+    "latitude": 30.335116,
+    "longitude": 79.237193,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7835383268",
+    "name": "Ghingarchaura",
+    "latitude": 30.324734,
+    "longitude": 79.24206,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7835383273",
+    "name": "Mariger",
+    "latitude": 30.308858,
+    "longitude": 79.218926,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7835383274",
+    "name": "Paini Walli",
+    "latitude": 30.308258,
+    "longitude": 79.226824,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7835383275",
+    "name": "Paini Palli",
+    "latitude": 30.305156,
+    "longitude": 79.23284,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7835406983",
+    "name": "Panai",
+    "latitude": 30.283232,
+    "longitude": 79.230477,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7835406984",
+    "name": "Siwai Tali",
+    "latitude": 30.281776,
+    "longitude": 79.235417,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7835437739",
+    "name": "Dungar",
+    "latitude": 30.37734,
+    "longitude": 79.200201,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7835437740",
+    "name": "Kimotha",
+    "latitude": 30.383366,
+    "longitude": 79.200617,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7835438785",
+    "name": "Umatata",
+    "latitude": 30.273725,
+    "longitude": 79.23834,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7835438786",
+    "name": "Barsali",
+    "latitude": 30.27082,
+    "longitude": 79.232078,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7835438787",
+    "name": "Diyuri",
+    "latitude": 30.262505,
+    "longitude": 79.241506,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7835480630",
+    "name": "Vena Talla",
+    "latitude": 30.337875,
+    "longitude": 79.235852,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7835480631",
+    "name": "Nagdhar",
+    "latitude": 30.336267,
+    "longitude": 79.244234,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7835480632",
+    "name": "Kaphalpani",
+    "latitude": 30.348612,
+    "longitude": 79.24586,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7835480633",
+    "name": "Sem",
+    "latitude": 30.356059,
+    "longitude": 79.241014,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7835480634",
+    "name": "Sankri",
+    "latitude": 30.357865,
+    "longitude": 79.235703,
+    "place_type": "village",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7835480636",
+    "name": "Dhamk",
+    "latitude": 30.350527,
+    "longitude": 79.239201,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7835480637",
+    "name": "Devkhet",
+    "latitude": 30.347751,
+    "longitude": 79.23471,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7835480638",
+    "name": "Chamsil",
+    "latitude": 30.348358,
+    "longitude": 79.227649,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7835480639",
+    "name": "Guleth",
+    "latitude": 30.346343,
+    "longitude": 79.222242,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7835480641",
+    "name": "Visal",
+    "latitude": 30.344375,
+    "longitude": 79.209431,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7835480642",
+    "name": "Jardugarh",
+    "latitude": 30.339841,
+    "longitude": 79.210068,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7835508099",
+    "name": "Pab",
+    "latitude": 30.351348,
+    "longitude": 79.211431,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7835508102",
+    "name": "Khanna",
+    "latitude": 30.368711,
+    "longitude": 79.213375,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7835508103",
+    "name": "Bhikona",
+    "latitude": 30.363273,
+    "longitude": 79.214364,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7855484690",
+    "name": "Syari",
+    "latitude": 30.204728,
+    "longitude": 79.476518,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7855484691",
+    "name": "Kungurcha",
+    "latitude": 30.205473,
+    "longitude": 79.461198,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7855484692",
+    "name": "Ranihat",
+    "latitude": 30.19986,
+    "longitude": 79.460999,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7855484695",
+    "name": "Lolti",
+    "latitude": 30.056604,
+    "longitude": 79.495125,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7855484696",
+    "name": "Devrara",
+    "latitude": 30.062951,
+    "longitude": 79.49796,
+    "place_type": "village",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7855484697",
+    "name": "Harchand",
+    "latitude": 30.061176,
+    "longitude": 79.486172,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7855484699",
+    "name": "Bharta",
+    "latitude": 30.072911,
+    "longitude": 79.488845,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7855484700",
+    "name": "Guga",
+    "latitude": 30.080887,
+    "longitude": 79.472097,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7855484701",
+    "name": "Adra",
+    "latitude": 30.083958,
+    "longitude": 79.460595,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7855484702",
+    "name": "Devalgwar",
+    "latitude": 30.090091,
+    "longitude": 79.468635,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7863055753",
+    "name": "Tangsa",
+    "latitude": 30.417054,
+    "longitude": 79.30083,
+    "place_type": "village",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7863055754",
+    "name": "Dugari",
+    "latitude": 30.420622,
+    "longitude": 79.287468,
+    "place_type": "village",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7863055755",
+    "name": "Banadwara",
+    "latitude": 30.43076,
+    "longitude": 79.290534,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7863055756",
+    "name": "Dowalatar",
+    "latitude": 30.434926,
+    "longitude": 79.300632,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7863055758",
+    "name": "Kalla",
+    "latitude": 30.44952,
+    "longitude": 79.276073,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7863055759",
+    "name": "Koteshwar",
+    "latitude": 30.445389,
+    "longitude": 79.280362,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7863055760",
+    "name": "Viragan",
+    "latitude": 30.443489,
+    "longitude": 79.285478,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7863055761",
+    "name": "Bhadakoti",
+    "latitude": 30.447891,
+    "longitude": 79.287205,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7863055762",
+    "name": "Kunkul Mandoli",
+    "latitude": 30.454272,
+    "longitude": 79.282368,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7863055763",
+    "name": "Gaundi",
+    "latitude": 30.463191,
+    "longitude": 79.269541,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7863100053",
+    "name": "Jawari",
+    "latitude": 30.393966,
+    "longitude": 79.275382,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7863100054",
+    "name": "Talla Rupa",
+    "latitude": 30.380102,
+    "longitude": 79.269735,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7863100055",
+    "name": "Tarakhansal",
+    "latitude": 30.37661,
+    "longitude": 79.273479,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7863100056",
+    "name": "Kalaundi",
+    "latitude": 30.383623,
+    "longitude": 79.279157,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7863100057",
+    "name": "Gandhnagar",
+    "latitude": 30.380471,
+    "longitude": 79.287662,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7863100058",
+    "name": "Narayan",
+    "latitude": 30.383399,
+    "longitude": 79.283425,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7863100059",
+    "name": "Bachher",
+    "latitude": 30.383444,
+    "longitude": 79.293952,
+    "place_type": "village",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7863100060",
+    "name": "Kalchora",
+    "latitude": 30.389216,
+    "longitude": 79.294048,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7863100061",
+    "name": "Pilang",
+    "latitude": 30.381775,
+    "longitude": 79.31228,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7863100062",
+    "name": "Soriala",
+    "latitude": 30.37547,
+    "longitude": 79.291903,
+    "place_type": "village",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7863100063",
+    "name": "Math",
+    "latitude": 30.377655,
+    "longitude": 79.296215,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7863100064",
+    "name": "Kwiralu",
+    "latitude": 30.380301,
+    "longitude": 79.304623,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7863100065",
+    "name": "Tanduna",
+    "latitude": 30.374491,
+    "longitude": 79.30569,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7863100066",
+    "name": "Nagari",
+    "latitude": 30.370855,
+    "longitude": 79.303893,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7863100067",
+    "name": "Saikot",
+    "latitude": 30.367893,
+    "longitude": 79.303898,
+    "place_type": "village",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7863100068",
+    "name": "Amkhet",
+    "latitude": 30.36279,
+    "longitude": 79.306437,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7863100069",
+    "name": "Baindu",
+    "latitude": 30.35815,
+    "longitude": 79.30132,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7863100071",
+    "name": "Pursati",
+    "latitude": 30.348402,
+    "longitude": 79.315846,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7863100072",
+    "name": "Chhern",
+    "latitude": 30.344938,
+    "longitude": 79.30243,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7863100073",
+    "name": "Kanderi",
+    "latitude": 30.347263,
+    "longitude": 79.302381,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7863100074",
+    "name": "Dawar",
+    "latitude": 30.345557,
+    "longitude": 79.296998,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7863100075",
+    "name": "Ramwori",
+    "latitude": 30.318974,
+    "longitude": 79.319637,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7863100077",
+    "name": "Jalkundi",
+    "latitude": 30.287021,
+    "longitude": 79.25841,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7863100078",
+    "name": "Jilasu",
+    "latitude": 30.291325,
+    "longitude": 79.268454,
+    "place_type": "village",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7863100079",
+    "name": "Rikhwari",
+    "latitude": 30.293596,
+    "longitude": 79.262823,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7863100080",
+    "name": "Kulara",
+    "latitude": 30.291309,
+    "longitude": 79.253557,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7863100081",
+    "name": "Dadar",
+    "latitude": 30.335504,
+    "longitude": 79.29777,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7863117406",
+    "name": "Nauna",
+    "latitude": 30.29849,
+    "longitude": 79.382659,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7863117407",
+    "name": "Vanala",
+    "latitude": 30.295914,
+    "longitude": 79.372771,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7863117408",
+    "name": "Soni",
+    "latitude": 30.282738,
+    "longitude": 79.371725,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7863117409",
+    "name": "Khadgoli",
+    "latitude": 30.290936,
+    "longitude": 79.377414,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7863117410",
+    "name": "Kamera",
+    "latitude": 30.285015,
+    "longitude": 79.385314,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7863117411",
+    "name": "Tunala",
+    "latitude": 30.284965,
+    "longitude": 79.389168,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7863117413",
+    "name": "Lamadra",
+    "latitude": 30.2872,
+    "longitude": 79.415115,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7863117414",
+    "name": "Bhaunindhar",
+    "latitude": 30.293632,
+    "longitude": 79.450173,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7863117416",
+    "name": "Guthara",
+    "latitude": 30.264982,
+    "longitude": 79.459815,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7863117417",
+    "name": "Bijor",
+    "latitude": 30.271282,
+    "longitude": 79.433297,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7863117418",
+    "name": "Parkhet",
+    "latitude": 30.267966,
+    "longitude": 79.442378,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7863117420",
+    "name": "Dargaon",
+    "latitude": 30.271323,
+    "longitude": 79.449953,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7863117422",
+    "name": "Kumjung",
+    "latitude": 30.272733,
+    "longitude": 79.461065,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7863117423",
+    "name": "Takmini",
+    "latitude": 30.273733,
+    "longitude": 79.420404,
+    "place_type": "village",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7863117424",
+    "name": "Talla Kanda",
+    "latitude": 30.27393,
+    "longitude": 79.429354,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7863117425",
+    "name": "Malla Kanda",
+    "latitude": 30.277806,
+    "longitude": 79.422581,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7863123837",
+    "name": "Retali",
+    "latitude": 30.422711,
+    "longitude": 79.429437,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7863123838",
+    "name": "Luhan",
+    "latitude": 30.410175,
+    "longitude": 79.430124,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7863123839",
+    "name": "Digoli",
+    "latitude": 30.41012,
+    "longitude": 79.423233,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7863123840",
+    "name": "Jaisau",
+    "latitude": 30.41693,
+    "longitude": 79.408273,
+    "place_type": "village",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7863123841",
+    "name": "Bhijrakot",
+    "latitude": 30.430682,
+    "longitude": 79.36023,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7863123842",
+    "name": "Malana",
+    "latitude": 30.427285,
+    "longitude": 79.35731,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7863129803",
+    "name": "Gawal",
+    "latitude": 30.32648,
+    "longitude": 79.331891,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7863129804",
+    "name": "Dharikund",
+    "latitude": 30.323828,
+    "longitude": 79.314142,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7863129805",
+    "name": "Mangroli",
+    "latitude": 30.315482,
+    "longitude": 79.322254,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7863129807",
+    "name": "Munlall",
+    "latitude": 30.321467,
+    "longitude": 79.326126,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7863129808",
+    "name": "Medadwakti",
+    "latitude": 30.313615,
+    "longitude": 79.328402,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7863129809",
+    "name": "Tephana",
+    "latitude": 30.301235,
+    "longitude": 79.336055,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7863129810",
+    "name": "Gangtoli",
+    "latitude": 30.30604,
+    "longitude": 79.333727,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7863129811",
+    "name": "Rajwakti",
+    "latitude": 30.310419,
+    "longitude": 79.331695,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7863129812",
+    "name": "Paunkila Malla",
+    "latitude": 30.305201,
+    "longitude": 79.357954,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7863129813",
+    "name": "Gandasu",
+    "latitude": 30.306966,
+    "longitude": 79.364325,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7863129814",
+    "name": "Sema",
+    "latitude": 30.314479,
+    "longitude": 79.373189,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7863129815",
+    "name": "Sani",
+    "latitude": 30.308859,
+    "longitude": 79.373334,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7863129816",
+    "name": "Chata",
+    "latitude": 30.311879,
+    "longitude": 79.379886,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7863129817",
+    "name": "Sankari",
+    "latitude": 30.3194,
+    "longitude": 79.389233,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7863129818",
+    "name": "Chak Matha",
+    "latitude": 30.310907,
+    "longitude": 79.388123,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7863129819",
+    "name": "Anthruthet",
+    "latitude": 30.327963,
+    "longitude": 79.434867,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7863129820",
+    "name": "Damdhar",
+    "latitude": 30.320558,
+    "longitude": 79.431815,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7863129821",
+    "name": "Lodala",
+    "latitude": 30.295478,
+    "longitude": 79.390847,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7863130772",
+    "name": "Sentuna",
+    "latitude": 30.438395,
+    "longitude": 79.35656,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7863130773",
+    "name": "Gingron",
+    "latitude": 30.434674,
+    "longitude": 79.347502,
+    "place_type": "village",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7863130774",
+    "name": "Khadora",
+    "latitude": 30.421912,
+    "longitude": 79.341056,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7863130779",
+    "name": "Kaurau",
+    "latitude": 30.418405,
+    "longitude": 79.35264,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7863130781",
+    "name": "Durgapuri",
+    "latitude": 30.411386,
+    "longitude": 79.387085,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7863130782",
+    "name": "Rowala",
+    "latitude": 30.411179,
+    "longitude": 79.382057,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7863130784",
+    "name": "Maholta",
+    "latitude": 30.42119,
+    "longitude": 79.386002,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7863159650",
+    "name": "Kwarkun",
+    "latitude": 30.376366,
+    "longitude": 79.362608,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7863167785",
+    "name": "Kandara",
+    "latitude": 30.425251,
+    "longitude": 79.386801,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7863167786",
+    "name": "Kana",
+    "latitude": 30.432147,
+    "longitude": 79.388742,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7863167789",
+    "name": "Maikot",
+    "latitude": 30.436255,
+    "longitude": 79.373675,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7863167790",
+    "name": "Kunjaun",
+    "latitude": 30.439059,
+    "longitude": 79.369396,
+    "place_type": "village",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7863167797",
+    "name": "Gangalgaon",
+    "latitude": 30.432018,
+    "longitude": 79.317422,
+    "place_type": "village",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7863167798",
+    "name": "Sagar",
+    "latitude": 30.439759,
+    "longitude": 79.321337,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7863893904",
+    "name": "Panyalyun",
+    "latitude": 30.020717,
+    "longitude": 79.203352,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7864415366",
+    "name": "Chandiyal",
+    "latitude": 30.05992,
+    "longitude": 79.246595,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7864415367",
+    "name": "Phuldungi",
+    "latitude": 30.064628,
+    "longitude": 79.245597,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7864415368",
+    "name": "Melbagar",
+    "latitude": 30.062576,
+    "longitude": 79.238151,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7864415369",
+    "name": "Ramra",
+    "latitude": 30.047123,
+    "longitude": 79.234149,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7864415371",
+    "name": "Silkot",
+    "latitude": 30.040316,
+    "longitude": 79.24093,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7864415372",
+    "name": "Kunkhet",
+    "latitude": 30.006233,
+    "longitude": 79.241123,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7864483489",
+    "name": "Pyonra",
+    "latitude": 30.124584,
+    "longitude": 79.21561,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7864483491",
+    "name": "Langiai",
+    "latitude": 30.110468,
+    "longitude": 79.217949,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7864483492",
+    "name": "Pajyana",
+    "latitude": 30.113856,
+    "longitude": 79.220653,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7864483493",
+    "name": "Silpata",
+    "latitude": 30.112371,
+    "longitude": 79.226768,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7864483494",
+    "name": "Chhimta",
+    "latitude": 30.115675,
+    "longitude": 79.239149,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7864483495",
+    "name": "Doltu",
+    "latitude": 30.109837,
+    "longitude": 79.236413,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7864483499",
+    "name": "Sarkol",
+    "latitude": 30.085508,
+    "longitude": 79.247003,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7864503028",
+    "name": "Sugar",
+    "latitude": 30.137241,
+    "longitude": 79.229279,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7864503031",
+    "name": "Keri Talli",
+    "latitude": 30.132249,
+    "longitude": 79.246938,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7864515972",
+    "name": "Chhaloli",
+    "latitude": 30.210681,
+    "longitude": 79.203379,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-7886209570",
+    "name": "Kaundani",
+    "latitude": 30.000157,
+    "longitude": 80.086293,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-8357531863",
+    "name": "Gukti Gaul",
+    "latitude": 30.037242,
+    "longitude": 80.058703,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-8357534364",
+    "name": "Hokra Devi",
+    "latitude": 30.019152,
+    "longitude": 80.08346,
+    "place_type": "village",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-8361336681",
+    "name": "Luntra",
+    "latitude": 30.281618,
+    "longitude": 79.439385,
+    "place_type": "village",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-8390681981",
+    "name": "Benoli Gaon",
+    "latitude": 30.190155,
+    "longitude": 79.20038,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-8418283653",
+    "name": "Silingi",
+    "latitude": 30.264424,
+    "longitude": 79.300561,
+    "place_type": "village",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-9387763623",
+    "name": "Tugasi",
+    "latitude": 30.482256,
+    "longitude": 79.598104,
+    "place_type": "village",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-9870024600",
+    "name": "Hamlet",
+    "latitude": 30.05836,
+    "longitude": 79.617448,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-9870024775",
+    "name": "Mundoli",
+    "latitude": 30.131321,
+    "longitude": 79.614358,
+    "place_type": "village",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-9871609867",
+    "name": "Salyana",
+    "latitude": 30.18915,
+    "longitude": 79.276936,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-9871609868",
+    "name": "Sirpal",
+    "latitude": 30.18379,
+    "longitude": 79.278717,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-9871609888",
+    "name": "Ghandiyala",
+    "latitude": 30.171992,
+    "longitude": 79.2558,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-9871609889",
+    "name": "Simtoli",
+    "latitude": 30.165889,
+    "longitude": 79.265499,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-9871609891",
+    "name": "Salung",
+    "latitude": 30.159896,
+    "longitude": 79.291012,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-9871609894",
+    "name": "Bamiyala",
+    "latitude": 30.151195,
+    "longitude": 79.311869,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-9871609895",
+    "name": "Jingauni",
+    "latitude": 30.132137,
+    "longitude": 79.30659,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-9871738346",
+    "name": "Surani",
+    "latitude": 30.191959,
+    "longitude": 79.231196,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-9871738347",
+    "name": "Khandura",
+    "latitude": 30.192136,
+    "longitude": 79.259748,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-9871738348",
+    "name": "Bhatoli Bazar",
+    "latitude": 30.191895,
+    "longitude": 79.240168,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-9871738349",
+    "name": "Khageli",
+    "latitude": 30.195307,
+    "longitude": 79.242775,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-9871738350",
+    "name": "Top",
+    "latitude": 30.18609,
+    "longitude": 79.228206,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-9871738351",
+    "name": "Laloti",
+    "latitude": 30.187481,
+    "longitude": 79.237111,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-9871738352",
+    "name": "Dobha",
+    "latitude": 30.182941,
+    "longitude": 79.243993,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-9871738355",
+    "name": "Hargaon",
+    "latitude": 30.168913,
+    "longitude": 79.220207,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-9871738356",
+    "name": "Chandpur Garhi",
+    "latitude": 30.178206,
+    "longitude": 79.219172,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-9871738357",
+    "name": "Unjwalpur",
+    "latitude": 30.179468,
+    "longitude": 79.221833,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-9871738358",
+    "name": "Khalgaon",
+    "latitude": 30.17483,
+    "longitude": 79.217198,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-9871738359",
+    "name": "Thaladhar",
+    "latitude": 30.17227,
+    "longitude": 79.22238,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-9871738362",
+    "name": "Maitoli",
+    "latitude": 30.162985,
+    "longitude": 79.223753,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-9871738363",
+    "name": "Pipal Chati",
+    "latitude": 30.161139,
+    "longitude": 79.23003,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-9871738364",
+    "name": "Randoli",
+    "latitude": 30.149525,
+    "longitude": 79.242089,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-9871738366",
+    "name": "Payyan",
+    "latitude": 30.171596,
+    "longitude": 79.201958,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-9871738368",
+    "name": "Maijyari Talli",
+    "latitude": 30.169543,
+    "longitude": 79.204602,
+    "place_type": "village",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-9871738369",
+    "name": "Rawanri",
+    "latitude": 30.166,
+    "longitude": 79.215739,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-9871738370",
+    "name": "Nagli",
+    "latitude": 30.16344,
+    "longitude": 79.214258,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-9871738371",
+    "name": "Dhamkar",
+    "latitude": 30.159507,
+    "longitude": 79.215417,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-9871738376",
+    "name": "Burakholi",
+    "latitude": 30.141026,
+    "longitude": 79.202285,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-9871738377",
+    "name": "Bhalsaun",
+    "latitude": 30.150805,
+    "longitude": 79.226811,
+    "place_type": "village",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-9871738378",
+    "name": "Syalkot",
+    "latitude": 30.155147,
+    "longitude": 79.219773,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-9871738379",
+    "name": "Paiyara",
+    "latitude": 30.157726,
+    "longitude": 79.211876,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-10857998189",
+    "name": "Nalgaon",
+    "latitude": 30.169692,
+    "longitude": 79.344442,
+    "place_type": "village",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-10861589954",
+    "name": "Kund",
+    "latitude": 30.207788,
+    "longitude": 79.284081,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-10861589956",
+    "name": "Saurka",
+    "latitude": 30.207158,
+    "longitude": 79.269962,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-10861589957",
+    "name": "Ratura",
+    "latitude": 30.20191,
+    "longitude": 79.26522,
+    "place_type": "village",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-10861589958",
+    "name": "Thapli",
+    "latitude": 30.195994,
+    "longitude": 79.277773,
+    "place_type": "hamlet",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-11163148404",
+    "name": "Pulna",
+    "latitude": 30.635759,
+    "longitude": 79.571628,
+    "place_type": "village",
+    "district": "Chamoli"
+  },
+  {
+    "panchayatId": "GP-12590413251",
+    "name": "SINGLA",
+    "latitude": 30.646244,
+    "longitude": 79.825803,
+    "place_type": "village",
+    "district": "Chamoli"
+  }
+]

@@ -1,0 +1,67 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    /* Clean Light Theme Background */
+    @apply bg-gray-50 text-gray-900 font-sans antialiased selection:bg-blue-500/30;
+    overflow-x: hidden;
+  }
+}
+
+@layer utilities {
+  /* Custom Scrollbar for Webkit - Light Theme */
+  ::-webkit-scrollbar {
+    width: 6px;
+    height: 6px;
+  }
+  
+  ::-webkit-scrollbar-track {
+    background: transparent;
+  }
+  
+  ::-webkit-scrollbar-thumb {
+    @apply bg-gray-300 rounded-full;
+  }
+
+  ::-webkit-scrollbar-thumb:hover {
+    @apply bg-gray-400;
+  }
+
+  /* 
+   * Leaflet Map Overrides 
+   * Light theme match for map popups and controls 
+   */
+  .leaflet-container {
+    background: #f9fafb !important;
+    font-family: inherit !important;
+    z-index: 10;
+  }
+
+  .leaflet-popup-content-wrapper {
+    @apply bg-white border border-gray-200 text-gray-800 shadow-xl rounded-lg p-0 !important;
+  }
+
+  .leaflet-popup-tip {
+    @apply bg-white border-t border-l border-gray-200 !important;
+  }
+
+  .leaflet-popup-content {
+    @apply m-0 !important;
+  }
+
+  .leaflet-popup-close-button {
+    @apply text-gray-400 hover:text-gray-600 mt-2 mr-2 !important;
+  }
+
+  /* Map controls light mode */
+  .leaflet-control-zoom-in,
+  .leaflet-control-zoom-out {
+    @apply bg-white border-gray-200 text-gray-600 hover:bg-gray-50 hover:text-gray-900 !important;
+  }
+  
+  .leaflet-bar {
+    @apply border-gray-200 shadow-sm !important;
+  }
+}

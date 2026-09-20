@@ -1,0 +1,18 @@
+2026-09-18 01:16:06 ERROR [SEED]: Seeding aborted due to fatal error: next is not a function
+2026-09-18 01:20:56 ERROR [SEED]: Seeding aborted due to fatal error: E11000 duplicate key error collection: floodatlas.users index: phone_1 dup key: { phone: null }
+2026-09-18 02:04:38 ERROR [INGESTION]: Post-ingestion pipeline failure for zone: chamoli-joshimath | {"error":"getCyclicTimeFeatures is not a function"}
+2026-09-18 02:22:31 ERROR [ML_BRIDGE]: ML inference failed for zone: chamoli-joshimath | {"error":"Request failed with status code 500"}
+2026-09-18 02:22:31 ERROR [INGESTION]: Post-ingestion pipeline failure for zone: chamoli-joshimath | {"error":"ML Microservice Inference Failed: Request failed with status code 500"}
+2026-09-18 02:26:12 ERROR [ML_BRIDGE]: ML inference failed for zone: chamoli-joshimath | {"error":"Request failed with status code 500"}
+2026-09-18 02:26:12 ERROR [INGESTION]: Post-ingestion pipeline failure for zone: chamoli-joshimath | {"error":"ML Microservice Inference Failed: Request failed with status code 500"}
+2026-09-18 02:29:09 ERROR [ML_BRIDGE]: ML inference failed for zone: chamoli-joshimath | {"error":"Request failed with status code 500"}
+2026-09-18 02:29:09 ERROR [INGESTION]: Post-ingestion pipeline failure for zone: chamoli-joshimath | {"error":"ML Microservice Inference Failed: Request failed with status code 500"}
+2026-09-18 12:12:10 ERROR [ML_BRIDGE]: ML inference failed for zone: chamoli-joshimath | {"error":"Request failed with status code 500"}
+2026-09-18 12:12:10 ERROR [INGESTION]: Post-ingestion pipeline failure for zone: chamoli-joshimath | {"error":"ML Microservice Inference Failed: Request failed with status code 500"}
+2026-09-18 12:17:38 ERROR [ML_BRIDGE]: ML inference failed for zone: chamoli-joshimath | {"error":"Prediction validation failed: biLstmProbability: Bi-LSTM probability output is required from ML microservice, xgboostProbability: XGBoost probability output is required from ML microservice, ensembleProbability: Ensemble probability score is required"}
+2026-09-18 12:17:38 ERROR [INGESTION]: Post-ingestion pipeline failure for zone: chamoli-joshimath | {"error":"ML Microservice Inference Failed: Prediction validation failed: biLstmProbability: Bi-LSTM probability output is required from ML microservice, xgboostProbability: XGBoost probability output is required from ML microservice, ensembleProbability: Ensemble probability score is required"}
+2026-09-18 18:08:27 ERROR : [OPENWEATHER] Failed to fetch weather for [30.2589, 79.4678]: timeout of 5000ms exceeded
+2026-09-18 18:17:32 ERROR : [OPENWEATHER] Failed to fetch weather for [30.2589, 79.4678]: timeout of 5000ms exceeded
+2026-09-18 18:17:37 ERROR : [OPENWEATHER] Failed to fetch weather for [30.26, 79.2167]: timeout of 5000ms exceeded
+2026-09-18 18:17:42 ERROR : [OPENWEATHER] Failed to fetch weather for [30.7686, 79.4958]: timeout of 5000ms exceeded
+2026-09-18 19:52:50 ERROR : [OPENWEATHER] Failed to fetch weather for [30.2589, 79.4678]: timeout of 5000ms exceeded

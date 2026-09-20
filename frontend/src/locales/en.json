@@ -1,0 +1,89 @@
+{
+  "nav": {
+    "home": "Home",
+    "liveMap": "Live Map",
+    "weather": "Weather",
+    "safety": "Safety Info",
+    "about": "About Us",
+    "contact": "Contact",
+    "authorityLogin": "Authority Login",
+    "overview": "Command Center",
+    "broadcast": "Emergency Broadcast",
+    "predictions": "ML Predictions",
+    "sensors": "Sensor Network",
+    "logout": "Sign Out"
+  },
+  "common": {
+    "appName": "FloodAtlas",
+    "tagline": "Early Warning for Uttarakhand",
+    "emergencyStrip": "In case of emergency, call: 1070 (State Emergency) | 112 (National Emergency)",
+    "loading": "Loading...",
+    "localeCode": "en-IN",
+    "location": "Location",
+    "action": "Action",
+    "viewDetails": "View Details",
+    "lastUpdated": "Last Updated",
+    "id": "Sensor ID",
+    "type": "Type",
+    "online": "Online",
+    "offline": "Offline",
+    "allRightsReserved": "All rights reserved.",
+    "now": "Now",
+    "today": "Today"
+  },
+  "authority": {
+    "dashboardTitle": "Command Center",
+    "dashboardSubtitle": "Real-time monitoring and ML ensemble overview.",
+    "riskTier": "Risk Tier",
+    "riskScore": "Risk Score",
+    "noZones": "No active zones monitored at this time.",
+    "dataQuality": "Telemetry Quality",
+    "mlEnsemble": "ML Ensemble Breakdown",
+    "finalProbability": "Final Probability",
+    "sensorNetwork": "Sensor Network Status",
+    "noSensors": "No sensors configured for this zone.",
+    "status": "Status",
+    "noChartData": "No historical telemetry available.",
+    "hydrograph": "River Hydrograph (Last 24h)",
+    "dangerLevel": "Danger Level",
+    "precipitation": "Precipitation (Last 24h)",
+    "soilMoistureChart": "Soil Moisture Saturation",
+    "saturationWarning": "High Saturation"
+  },
+  "risk": {
+    "EXTREME": "Extreme",
+    "HIGH": "High",
+    "MODERATE": "Moderate",
+    "LOW": "Low",
+    "predictionTitle": "Flood Risk Prediction",
+    "keyFactors": "Key Risk Factors",
+    "selectedLocation": "Selected Location"
+  },
+  "weather": {
+    "rainfall": "Rainfall",
+    "waterLevel": "Water Level",
+    "riverLevel": "River Level",
+    "soilMoisture": "Soil Moisture",
+    "slope": "Slope",
+    "currentConditions": "Current Conditions",
+    "feelsLike": "Feels like",
+    "humidity": "Humidity",
+    "wind": "Wind",
+    "dewPoint": "Dew Point",
+    "pressure": "Pressure",
+    "hourlyForecast": "Hourly Forecast",
+    "dailyForecast": "7-Day Forecast"
+  },
+  "alerts": {
+    "highRiskAreas": "High Risk Areas:"
+  },
+  "map": {
+    "riskLevel": "Flood Risk Level",
+    "layers": "Map Layers",
+    "satellite": "Satellite",
+    "terrain": "Terrain",
+    "districtBoundary": "District Boundary",
+    "riverNetwork": "River Network",
+    "riskLayer": "Risk Layer"
+  }
+}
